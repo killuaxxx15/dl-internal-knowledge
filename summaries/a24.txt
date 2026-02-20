@@ -1,0 +1,73 @@
+Fed Hesitates on Tariffs, The New Mag 7, Death of VC, Google's Value in a Post-Search World
+
+Federal Reserve Policy and Market Impact
+
+• The Fed held interest rates steady in the 4.25-4.5% range in 2025, adopting a "wait-and-see" approach due to uncertainty surrounding Trump's tariff policies
+• Philippe Laffont noted a strange disconnect between positive economic data (particularly strong consumer spending) and negative market sentiment
+• Chamath Palihapitiya suggested the Fed may be acting politically, as some key liquidity indicators are "blinking yellow" which would typically justify a rate cut
+• David Friedberg highlighted that the UK trade deal announcement (with 10% tariffs maintained) signaled a new revenue stream for the federal government that will impact Fed decisions
+• Polymarket data shows expectations of no change in June (84%), July (51%), but a possible cut by September (48%)
+
+Trump's Tariff Strategy and Economic Impact
+
+• The UK-US trade deal maintained a 10% tariff despite the UK being a close ally, suggesting this could be a baseline for other countries
+• According to Philippe Laffont, retailers reported that only about 50% of tariff costs get passed through to consumers, contradicting concerns about full pass-through
+• The market reacted positively to signs that the administration might pursue more "win-win" trade deals rather than acrimonious negotiations
+• David Friedberg noted that these trade deals will drive GDP growth, employment, and potentially impact inflation
+• The initial tariff announcements caused market volatility, but the market recovered once the government showed willingness to adjust policies based on feedback
+
+Google's Search Business Challenges
+
+• Google's stock dropped 8% after Apple executive Eddie Kue revealed search volume declined for the first time in 20 years due to AI competitors like ChatGPT
+• Search represents about 56% of Google's revenue but potentially 110% of profits when accounting for other divisions that lose money
+• The panelists debated whether Google is experiencing an "innovator's dilemma" by not aggressively integrating its Gemini AI capabilities into its search products
+• Chamath argued that Google needs to be proactive rather than reactive in addressing the threat, suggesting they need "taste and courage" to make necessary changes
+• The panel discussed how Sergey Brin's return to active work at Google (70 hours per week) could signal a founder-led transformation to address these challenges
+
+AI Token Growth vs Tariff Impact
+
+• Philippe Laffont introduced the concept of "tokens greater than tariffs," noting that Microsoft reported processing 100 trillion AI tokens in Q1 2025 (50 trillion in March alone)
+• He argued that the explosive growth in AI token usage, especially for reasoning engines, is outweighing tariff concerns in tech markets
+• Tech companies are experiencing shortages of chips and compute power due to massive AI demand
+• David Friedberg suggested that AI tools are creating a once-in-a-generation opportunity to select companies that will accelerate growth through AI adoption
+• The panel agreed that AI is precipitating many fast changes across industries, potentially reshaping which companies will dominate markets
+
+The Future of Tech Investment and "New Mag 7"
+
+• The concept of the "Magnificent Seven" tech companies that dominated markets is evolving due to AI disruption
+• Philippe Laffont suggested we need to identify the next 25 leading companies that will reshape markets, including both public and private companies
+• Companies like SpaceX and Stripe would be included in this basket despite being private, making traditional investment approaches inadequate
+• The panel discussed how AI is creating opportunities for traditional businesses to be completely reinvented, potentially changing established markets
+• They noted that having a basket of around 25 companies (rather than just 7) provides better diversification in this rapidly changing landscape
+
+Decline in IPOs and M&A Activity
+
+• IPO and M&A activity has plummeted since the 2021 peak, with current levels below normal years like 2004-2006 or 2013-2015
+• The panel attributed this primarily to regulatory pressure, particularly from FTC Chair Lina Khan's aggressive stance against mergers
+• This decline has serious implications for the venture capital ecosystem, as VC firms need exits to return capital to their limited partners
+• Chamath explained that without exits, the innovation flywheel breaks, impacting future company creation, angel investments, and mentorship
+• The "diaspora effect" where successful exits create new founders, investors and mentors is being disrupted, threatening America's innovation advantage
+
+Cota Management's New Interval Fund Structure
+
+• Philippe Laffont described his new "interval fund" as democratizing tech investing with lower minimum investments ($50,000) and broader investor accessibility
+• The fund secured $1 billion in initial backing from the Bezos and Dell families, aiming to become the largest fund launch ever
+• It charges lower fees (1.25% management, 12.5% carry) in exchange for longer-term capital, allowing for a mix of public, private investments and cash holdings
+• The structure is inspired by Berkshire Hathaway's model (⅓ cash, ⅓ public equities, ⅓ private companies) with simplified tax reporting (1099s vs K-1s)
+• The fund focuses on identifying the "new Mag 7" - the top 25 companies that will dominate markets in 10 years, whether currently public or private
+
+Venture Capital Challenges and Returns
+
+• Chamath explained how limited partners need to go further out on the risk curve to achieve target returns (~10% annually)
+• Venture capital needs to deliver mid-to-high 20% returns to justify illiquidity, but regulatory constraints on exits make this increasingly difficult
+• Philippe noted that strong venture returns depend on outsized wins (like lottery tickets with billion-dollar payouts) which requires preserving upside potential
+• The panel discussed how regulatory pressure against M&A has removed a key exit path for startups, reducing incentives for early-stage investment
+• They argued that the current regulatory environment strangles innovation by preventing capital from flowing back to investors who take risks
+
+Formula 1 Miami Event Experience
+
+• The All In Podcast hosted a successful event at the Miami Formula 1 race, featuring guests like Sergey Brin, Tony Robbins, F1 champion Nico Rosberg, and others
+• Jason Calacanis described his first F1 experience, noting that watching in person is mostly about the social experience since cars zip by quickly
+• The group played poker at the Trophy House venue and had special access near the finish line
+• They discussed potentially hosting similar events at future F1 races in Austin or Las Vegas
+• The event showcased connections between tech leaders, investors, and entrepreneurs, with sponsors including OKAX, Solana, and Google Cloud

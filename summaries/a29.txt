@@ -1,0 +1,73 @@
+Jeff Bezos’s Shareholder Letters!
+
+The Importance of Long-Term Thinking
+
+• In his very first shareholder letter (1997), Bezos established "It's all about the long-term" as his fundamental philosophy, and he attached this letter to every subsequent letter for the next 23 years.
+• Bezos repeatedly emphasized that Amazon would "make decisions and weigh trade-offs differently than some companies" due to this long-term focus, prioritizing future cash flows over short-term GAAP accounting metrics.
+• He articulated that long-term thinking creates a competitive advantage, stating: "Long-term orientation interacts well with customer obsession" by allowing Amazon to "work patiently for multiple years to deliver a solution" to customer needs.
+• By 2005, Bezos clarified that many important decisions couldn't be made in a "math-based way," particularly price reductions, which seemed counterintuitive in the short term but created a "virtuous cycle" over many years.
+• Bezos observed that long-term thinking allowed Amazon to attempt things that would otherwise be impossible, noting "by endurance we conquer" and "if you are truly long-term oriented, as the years go by, you'll have fewer and fewer competitors."
+
+Customer Obsession as the Core Principle
+
+• Bezos identified "obsess over customers" as Amazon's singular organizing principle, around which all other values revolved.
+• He emphasized "relentless" focus on customers (Bezos initially considered naming Amazon "Relentless" and still owns relentless.com, which redirects to Amazon).
+• Amazon pioneered customer-centric innovations like allowing negative reviews on product pages, which some vendors complained about but which Bezos defended as helping "customers make better purchase decisions" that would "ultimately pay off for the company."
+• Bezos explained that Amazon's energy came from "the desire to impress customers rather than the zeal to best competitors," which drove proactive improvements rather than reactive competitive responses.
+• Amazon built automated systems to proactively refund customers when experiences fell below standards, such as automatically refunding video rentals that experienced poor playback quality without customers having to request it.
+
+The Amazon Business Model
+
+• Bezos emphasized that scale was central to Amazon's business model, explaining the "get big fast" strategy was essential in early e-commerce.
+• He explained that online retail is "characterized by high fixed costs and relatively low variable costs," making it difficult to be medium-sized in e-commerce - businesses needed to be either very small or very large.
+• Bezos articulated a virtuous cycle where "focus on cost improvement makes it possible to afford lower prices, which drives growth. Growth spreads fixed costs across more sales, reducing cost per unit, which makes possible more price reductions."
+• By 2004, Bezos established three pillars of Amazon's customer experience: selection, convenience, and "relentlessly lowering prices" (inspired by Jim Sinegal of Costco).
+• After meeting Sinegal, Bezos declared "There are two kinds of retailers: those who try to figure out how to charge more, and those who work to figure out how to charge less—and we are going to be the second, full stop."
+
+Building New Businesses
+
+• Bezos described Amazon as "a business that builds businesses" or "a company that builds companies," with a culture "unusually supportive of small businesses with big potential."
+• He outlined criteria for new business ventures: they must be differentiated, potentially large, and pass Amazon's returns threshold, but "it does not demand that they be large on the day they are born."
+• Bezos highlighted Amazon Web Services and Fulfillment by Amazon as examples of businesses that started as small seeds and grew into billion-dollar franchises.
+• He contrasted Amazon's "working backwards" approach with the typical "skills-forward" approach used by most companies, explaining that "working backwards from customer needs often demands that we acquire new competencies and exercise new muscles."
+• Bezos preferred self-service platforms because "even well-meaning gatekeepers slow innovation" whereas self-service platforms allow "improbable ideas to get tried" without expert gatekeepers saying "that'll never work."
+
+Operational Excellence
+
+• Bezos defined operational excellence as having two components: "delivering continuous improvement in customer experience" and "driving productivity, margin, efficiency, and asset velocity."
+• He explained that these two components often reinforced each other, as "more efficient distribution yields faster delivery times, which in turn lowers customer service costs."
+• Bezos saw waste elimination as an energizing opportunity, noting "everywhere we look, we find what experienced Japanese manufacturers would call muda [waste]" representing "years and years of productivity gains."
+• He emphasized that technology must be integrated throughout the organization rather than kept "off to the side in some sort of R&D department," stating "technology infuses all our teams, all our processes, our decision-making."
+• Bezos highlighted that operational excellence was not just about efficiency but also about quality, noting that "eliminating the root cause of errors saves us money and saves customers time."
+
+Risk-Taking and Innovation
+
+• Bezos encouraged bold risk-taking, famously stating: "Given a 10% chance of a 100 times payoff, you should take that bet every time" because "big winners pay for so many experiments."
+• He explained that business differs from baseball because "when you step up to the plate, you can score 1,000 runs" rather than just four, creating a "long-tailed distribution of returns."
+• Bezos acknowledged that many experiments would fail, noting investments in companies like Living.com and Pets.com "lost a significant amount of money for us," but provided valuable lessons.
+• He stressed the importance of invention, stating "Invention is in our DNA and technology is the fundamental tool we wield to evolve and improve every aspect of the experience we provide our customers."
+• Bezos articulated that a culture of experimentation required acknowledging that "your failures have to scale as well," explaining that early failures might involve $10 million investments, while later ones might involve $10 billion.
+
+Hiring and Team Building
+
+• Bezos called hiring "the single most important element of Amazon.com's success," emphasizing the importance of setting a high bar for talent.
+• He outlined three key questions Amazon asks before hiring: "Will you admire this person?", "Will this person raise the average level of effectiveness of the group?", and "Along what dimension might this person be a superstar?"
+• Bezos described Amazon's ideal team as "missionaries" rather than "mercenaries," stating "missionaries build better products" and are driven by genuine passion.
+• He acknowledged that building something meaningful "is not easy," telling employees they were "working to build something important... something that we can all tell our grandchildren about. Such things aren't meant to be easy."
+• Bezos believed in hiring for "unusual talent" or "spikes" - people who might be among the best in the world at specific traits, even if they came with challenges in other areas.
+
+The "Dreamy Business" Framework
+
+• Bezos outlined four characteristics of what he called a "dreamy business": customers love it, it can grow to very large size, it has strong returns on capital, and it is durable with potential to endure for decades.
+• He advised that when you find a business with these characteristics, you should "get married" to it, citing Marketplace, Prime, and AWS as Amazon's three such partners.
+• Bezos explained that these seemingly diverse businesses were connected by "a distinctive organizational culture that cares deeply about and acts with conviction on a small number of principles."
+• He identified these shared principles as: customer obsession rather than competitor obsession, eagerness to invent and pioneer, willingness to fail, patience to think long-term, and professional pride in operational excellence.
+• Bezos believed these businesses represented enduring franchises that would last for generations, fulfilling his original vision of creating "something valuable, differentiated and enduring."
+
+The Internet and Technology Evolution
+
+• Bezos recognized early that "day one for the Internet" presented a window of opportunity as "customers new to purchasing online are receptive to forming new relationships."
+• He predicted that "the current online shopping experience is the worst it will ever be," promising dramatic improvements as technology advanced.
+• Bezos noted Amazon would benefit from technology improvements, calculating they would be able to "use 60 times as much bandwidth per customer five years from now while holding bandwidth costs constant."
+• He explained how Amazon would use technology both to reduce costs and, more importantly, to "drive adoption and revenue" by transforming the customer experience.
+• With the launch of Kindle, Bezos expressed concern that modern network tools were shifting us "towards more information snacking and shorter attention spans," hoping Kindle would provide a "counterbalance" by being "purpose-built for long-form reading."

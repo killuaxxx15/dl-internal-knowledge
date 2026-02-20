@@ -1,0 +1,57 @@
+OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025
+
+AI Capabilities and Recent Developments
+
+• Sam Altman discussed OpenAI's recent models, including Sora (video generation) and GPT-40, which demonstrate intelligence beyond simple image generation, such as creating conceptual diagrams that link to core intelligences within the model.
+• ChatGPT has seen unprecedented growth, with Altman mentioning 500 million weekly active users and indicating rapid expansion that's stressing their teams and infrastructure.
+• The new "Memory" feature allows ChatGPT to know users over time, potentially developing into a system that proactively helps users throughout their day rather than just responding to queries.
+• Altman expressed particular excitement about AI applications in science, predicting meaningful progress against disease in the near future and suggesting that AI-assisted tools might help achieve breakthroughs like room temperature superconductors.
+• He revealed that OpenAI plans to release a "very powerful open source model" that will be "near the frontier" and "better than any current open source model," acknowledging this represents a shift in their approach.
+
+AI Safety and Regulation
+
+• Altman emphasized that safety and capability are increasingly becoming "one-dimensional" - a good product must be safe for users to trust it, especially as AI gains more autonomous abilities.
+• OpenAI has a "preparedness framework" that outlines how they evaluate and mitigate potential dangers before releasing new capabilities, though Altman acknowledged there are different views about AI safety systems within the industry.
+• Regarding regulation, Altman has evolved his thinking from his Senate testimony advocating for a new safety agency, now believing that rigorous external safety testing for advanced models is important but the specific regulatory structure needs refinement.
+• When pressed about departures from OpenAI's safety team, Altman pointed to their track record of safely deploying systems to hundreds of millions of users while acknowledging different views exist about safety approaches.
+• He emphasized the importance of an iterative process where systems are deployed with feedback while stakes are relatively low, allowing safety measures to evolve alongside increasing capabilities.
+
+The Evolution of AI Agency and AGI
+
+• Altman explained that current AI systems, despite their impressive capabilities, still fall short of Artificial General Intelligence (AGI) because they cannot continuously learn and improve, discover new knowledge, or autonomously perform complex tasks across platforms.
+• He described agentic AI (like OpenAI's "Operator" feature) as AI systems that can independently execute tasks online, noting this represents a significant safety challenge as mistakes become higher stakes when AI can access systems and information.
+• Rather than focus on the specific moment of achieving AGI, Altman emphasized acknowledging the continuous exponential improvement of AI capabilities, which will eventually surpass what anyone would define as AGI.
+• The most critical challenge he identified is ensuring safety throughout this exponential curve of capability improvement, especially as systems become more capable than humans and can do things humans don't fully understand.
+• Altman predicted that software development will be "pretty transformed" in the coming months as "agentic software engineering really starts to happen," describing it as a shift comparable to the changes developers have already experienced over the past two years.
+
+The Impact and Future of AI Development
+
+• Altman argued that throughout technological history, new tools have increased human capabilities rather than replaced them, suggesting AI will similarly enhance human potential while raising expectations for job performance.
+• He acknowledged legitimate concerns about AI's impact on creative industries, indicating openness to developing new economic models where AI users could compensate artists whose styles influence AI outputs, though the details of such systems remain unclear.
+• Addressing criticism about OpenAI's shift from its original non-profit structure to a for-profit model, Altman defended their overall mission progress while acknowledging their tactics have shifted in response to learning about capital requirements and other realities.
+• When asked about the inevitability of AI advancement, Altman pushed back against characterizations of a "crazy race," stating that companies do slow things down for safety and technical readiness, and that there is communication between most efforts with a shared concern for AI safety.
+• In his vision of the future for his child, Altman predicted a world of "incredible material abundance" where AI enhances human capability far beyond today's limits, suggesting the next generation will look back at our current limitations with "pity and nostalgia."
+
+Ethical Considerations and Decision-Making
+
+• When questioned about AI-generated content potentially infringing on intellectual property, Altman acknowledged the need for new economic models around creativity while stating OpenAI currently restricts generation "in the style of" living artists but allows generation based on art movements or studios.
+• He emphasized wanting to move creators from feeling their "work is being stolen" to feeling their "work is being amplified," recognizing that while some creative people are upset about AI's impact, others find it an amazing tool.
+• Altman revealed that OpenAI recently relaxed certain guardrails around "speech harms" in their new image model, giving users more freedom, based on their belief that model alignment involves following user preferences "within the very broad bounds of what society decides."
+• Rather than relying on "small elite summits" to determine AI guardrails, he expressed interest in learning from "the collective value preference of what everybody wants" through direct user feedback, suggesting AI could help people make wiser collective governance decisions.
+• When asked about the responsibility of reshaping humanity's destiny, Altman acknowledged being a "nuanced character" who has made and will make mistakes, but believes OpenAI has largely succeeded in its mission of safely distributing increasingly capable AI for humanity's benefit.
+
+AI Development Competition and Collaboration
+
+• Addressing competition with open source models like DeepSeek, Altman expressed confidence that while very smart models will become somewhat commoditized, OpenAI will maintain an advantage by building "the best defining product in the space" with integrated features.
+• He emphasized that while raw model capability matters, product integration is crucial - users want seamless experiences combining features like image generation, video creation, memory, and other tools that work together cohesively.
+• Altman predicted that extremely smart models will be available from multiple sources, but noted that current models are already "so smart that for most of the things most people want to do, they're good enough," suggesting the competitive landscape will shift toward product experience rather than raw intelligence.
+• While acknowledging competition in the field, Altman insisted there is communication between most AI development efforts and that all major players share concerns about AI safety, contradicting perceptions of an uncontrolled race.
+• When asked about the possibility of a coordinated slowdown in AI development, Altman claimed companies already slow things down for safety and technical readiness reasons, pointing to OpenAI's track record of responsible releases.
+
+Personal Reflections and Leadership
+
+• When asked if becoming a parent had changed his perspective on risk, Altman acknowledged parenthood fundamentally changed him and made spending time away from his child feel costly, but stated he "really cared about not destroying the world before" having a child.
+• Addressing concerns about power corrupting him (referencing Elon Musk's "ring of power" criticism), Altman claimed he feels "shockingly the same as before" despite his increased influence, suggesting that gradual changes have allowed him to adapt without feeling fundamentally different.
+• Responding to competing narratives about himself - visionary innovator versus someone who abandoned OpenAI's original principles - Altman described himself as a "nuanced character" where "probably some of the good things are true and probably some of the criticism is true."
+• He defended OpenAI's overall mission progress while acknowledging tactical shifts, including the move to a company structure in response to capital needs, and noted their intention to increase open-sourcing after initially exercising caution.
+• Altman recognized that OpenAI has "definitely made mistakes" and "will definitely make more in the future," but believes they have "mostly done the thing we've set out to do" over nearly a decade while maintaining adherence to their core mission.

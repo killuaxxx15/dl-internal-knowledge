@@ -1,0 +1,89 @@
+Mercado Libre: 18k engineers, 30k deploys a day, & their own fleet of planes | Sebastian Barrios
+
+Company Scale and Business Overview
+
+• Mercado Libre is a $100+ billion vertically integrated e-commerce marketplace operating across 18 Latin American countries with over 100 million users
+• The company has 18,000 engineers (one of the top 10 largest engineering teams globally) and deploys 30,000 times per day across their systems
+• They deliver over 5 million packages daily through their own distribution network including trucks, planes, and distribution centers
+• The business operates two major segments of equal size: e-commerce marketplace and fintech (accounts, credit cards, loans)
+• They plan to have over 100,000 total employees by the end of the year, making them the most valuable company in Latin America
+
+Engineering-Product Integration Philosophy
+
+• Mercado Libre operates with less than 1,000 product managers for 18,000 engineers (roughly 5% ratio compared to 10-30% at other tech companies)
+• Engineering leaders and tech leads typically own product decisions because they understand both technical possibilities and business/user needs
+• The company tests for product skills during engineering interviews but maintains a strong bias toward technical depth and expertise
+• Leadership believes having complete context in a single person leads to better products rather than coordinating between separate engineering and product roles
+• There's zero tolerance for leaders who can't answer technical details in meetings, requiring deep hands-on knowledge at all levels
+
+AI Integration and Development Platform Strategy
+
+• The company developed an internal AI platform called "Verdi" that abstracts complexities around data access, authorization, and agentic frameworks
+• They've created systems where agents can combine existing microservices functionality to build new features without writing new code
+• AI is being used to generate personalized UIs that predict user actions and create entirely customized experiences
+• The approach focuses on platforms rather than individual AI implementations, allowing teams to scale AI capabilities across the organization
+• Sebastian sees AI as accelerating both engineering and product work rather than replacing either function
+
+Failure Culture and Risk-Taking Framework
+
+• The company actively encourages teams to take risks on product direction and market experiments, with no termination for market failures
+• There's much lower tolerance for quality failures (system outages, poor execution) versus strategic/market misjudgments
+• Leadership demonstrates this culture through who gets promoted, what gets praised publicly, and how failed projects are discussed
+• The approach requires living the values through actions rather than just posting them on walls or websites
+• Teams have significant independence to pursue what they believe is best for users and the company, with tight feedback loops for course correction
+
+Distributed Decision-Making and Autonomy
+
+• Rather than using cascading OKRs, Mercado Libre provides high-level objectives and lets teams determine their own approaches
+• The company avoids long-term planning (no 10-year plans) due to rapidly changing markets, competitive landscape, and dynamic regulations
+• Teams operate under "freedom and responsibility" philosophy where they can work on whatever they think best serves users and company goals
+• Leadership balances autonomy with hands-on involvement in the most critical projects, going extremely deep when necessary
+• The approach requires careful balance between distributed freedom and maintaining holistic product vision to avoid fragmented user experiences
+
+User Research and Observation Methodology
+
+• The company prioritizes observing user behavior over conducting traditional user interviews or surveys
+• Sebastian emphasizes that users often don't know what they want or can't articulate their needs effectively
+• User research sessions focus on watching how people actually interact with products rather than asking what they want
+• The approach reveals assumptions that get "crushed" when observing real user behavior, like people entering both email and username in a single field
+• This observation-first methodology helps identify gaps between intended design and actual user patterns
+
+Radical Candor and Direct Communication Culture
+
+• The company operates with extremely direct and honest feedback, which is particularly important in Latin American cultures that tend toward hierarchy and politeness
+• Leadership provides candid feedback on what's working and not working, always maintaining cordiality while being brutally honest about performance
+• The culture separates personal relationships from work performance discussions, using sports team analogies rather than family metaphors
+• Regular design reviews and product reviews involve executive leadership giving direct, actionable feedback without sugar-coating
+• This directness extends to admitting when leadership's vision was wrong and pivoting quickly to new directions
+
+Personal Background and Early Entrepreneurship
+
+• At age 16-17, Sebastian built a battery-draining app that led to a personal phone call from Steve Jobs about removal from the App Store
+• Steve Jobs explained they were adding a new rule specifically about battery-draining apps, making Sebastian's app the catalyst for an App Store policy change
+• At 19, he created a timer app for free phone calls that became the #1 app in 19 countries, leading to a mobile app development business
+• He built and sold a consulting company, then created a taxi-ordering service in Mexico City that competed directly with Uber
+• His early success came from solving personal problems (talking to his girlfriend, ordering taxis) that scaled to broader market needs
+
+Unique Personal Lifestyle and Philosophy
+
+• Sebastian drinks only water (no coffee, tea, alcohol, juice, or soda) and programs in complete silence, finding stimulants unnecessary
+• He doesn't actively listen to music (despite his father being an orchestra conductor), rarely watches TV or news, and avoids most social media
+• His approach to information consumption is highly curated, following curiosity rather than consuming negative news cycles
+• He believes humans aren't evolved to process unlimited global information and chooses to focus on positive, actionable content
+• His philosophy centers on following curiosity as a guiding principle for both career and life decisions
+
+Independence Training and Agency Development
+
+• Sebastian's mother trained him and his siblings "like spies" to develop extreme independence and problem-solving capabilities
+• Training included survival camping with no gear, being dropped in Mexico City to find their way home alone, and international solo travel as children
+• The goal was developing agency - the ability to solve any problem and "get things done" regardless of circumstances
+• This background directly influences his leadership philosophy of empowering teams to be independent and resourceful
+• The training emphasized that the world is malleable and most limitations are self-imposed rather than actual barriers
+
+Technology Philosophy and Hype Cycle Management
+
+• Sebastian approaches new technologies with deep research and skepticism, avoiding both dismissal and blind adoption of trends
+• With crypto, he understood the technical fundamentals but questioned scalability claims while still implementing useful applications in Latin American markets
+• His approach involves understanding core technology capabilities, real-world business requirements, and practical implementation constraints
+• Rather than following hype cycles, he focuses on solving actual user problems with whatever technology is most appropriate
+• The company maintains a platform-first approach, building internal tools that can adapt to new technologies rather than chasing individual trends

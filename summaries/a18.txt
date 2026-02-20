@@ -1,0 +1,65 @@
+Trump vs Harvard, Nvidia export controls, how DEI killed Hollywood with Tim Dillon
+
+US-China Trade War and Export Controls on AI Chips
+
+• The White House imposed indefinite export restrictions on Nvidia's H20 chips to China, which Nvidia estimated would cause a $5.5 billion hit to quarterly earnings.
+• The H20 chip was specifically designed to comply with previous export restrictions while still allowing Nvidia to sell to China.
+• David Sacks explains the history of export controls, starting with the 2019 ban on extreme ultraviolet lithography equipment to China and subsequent restrictions on advanced AI chips.
+• David Friedberg notes that China invested $37 billion in developing their own 3-nanometer chip technology and claims to have developed their own EUV system.
+• Chamath presents data showing that 47% of Nvidia's revenue comes from China and Chinese-related countries, suggesting that shell companies are being used to circumvent export controls.
+
+NVIDIA's Revenue and Circumvention of Export Controls
+
+• Chamath argues that Nvidia is not acting in the best interest of the United States by constantly creating workarounds to sell chips to China.
+• A chart shows that about 47% of Nvidia's revenue goes to China and Chinese-related countries, suggesting shell companies may be purchasing chips and redirecting them.
+• David Sacks confirms that there have been both legal and illegal attempts to evade US export controls, citing a case where TSMC produced chips that went into Huawei devices.
+• Tim Dillon comments that Trump's instincts on trade with China are correct, but the implementation seems chaotic and poorly messaged.
+• The group discusses the challenge of enforcing export controls and suggests more resources for monitoring and enforcement.
+
+The Trump-Harvard Conflict Over Federal Funding
+
+• Three federal agencies announced reviews of $9 billion in multi-year federal grants and $256 million in contracts to Harvard.
+• The White House sent a letter demanding changes at Harvard, including merit-based hiring and admissions, cancellation of DEI programs, reforming international admissions, and abolishing ideological litmus tests.
+• Harvard's president refused to comply, leading the White House to freeze $2.2 billion in grants and $60 million in contracts.
+• The White House is threatening to revoke Harvard's tax-exempt status, which has happened once before with Bob Jones University in the 1970s.
+• Chamath argues that Harvard has made discrimination fashionable and needs to be reformed to restore meritocracy.
+
+Higher Education, DEI, and Harvard's Tax-Exempt Status
+
+• David Sacks explains the Bob Jones University vs. IRS case from 1983, where the university lost tax-exempt status for having racially discriminatory policies.
+• Sacks relates this to the 2023 Supreme Court case (Students for Fair Admissions vs. Harvard) which found Harvard's affirmative action policies violated the 14th Amendment.
+• David Friedberg questions whether an institution with a $53.2 billion endowment should be tax-exempt when it functions more like a technology development center than a traditional educational institution.
+• Tim Dillon criticizes higher education for becoming a "quasi-religious cult of insanity" where characteristics other than intelligence and merit are prioritized.
+• Chamath presents data showing China has caught up to the US in research spending and publication output, arguing that while America is "bumbling around talking about pronouns," China is making scientific advances.
+
+NIH Grants and University Administration Costs
+
+• Chamath reveals that Harvard charged a 69% administrative overhead on NIH grants, meaning for every $100 a lab received, Harvard billed the government an additional $69.
+• David Friedberg explains that the average overhead across universities is around 30%, raising questions about whether universities are the right places for fundamental scientific research.
+• Chamath shares a story about a qualified friend who withdrew from consideration for a Federal Reserve position after being told to "play up his Indian-ness" rather than his expertise.
+• The group discusses how prioritizing diversity over merit has led to a slowdown in innovation, research, and organizational effectiveness.
+• Tim Dillon suggests these diversity initiatives benefit establishment powers rather than truly helping disadvantaged groups.
+
+Tim Dillon's Views on Education Reform and Comedy in the Era of DEI
+
+• Tim argues that education should be more purpose-driven, helping students identify their skills and abilities starting from middle school.
+• He criticizes the "toxic American idea" that everyone should follow their dreams regardless of practicality, leaving students with massive debt and no clear career path.
+• Dillon describes his experience with entertainment executives suddenly claiming to care about "marginalized voices" despite being "monsters" who "care nothing about anything."
+• He explains that these DEI initiatives in Hollywood failed because Americans don't like to be patronized, and the content wasn't profitable.
+• Tim notes that when DEI content stopped being profitable, executives quickly "rediscovered the profit motive" and business fundamentals.
+
+The Future of Education and AI
+
+• David Friedberg suggests AI could transform education by personalizing learning to each student's personality and learning style.
+• He mentions that Palantir started a program paying $56,000 annually for apprenticeships instead of college education.
+• Tim Dillon expresses concern about AI replacing jobs like cashiers, Uber drivers, and tour guides that allow people to support themselves while developing skills in other areas.
+• The group discusses the potential shift away from traditional education models toward more integrated workplace learning facilitated by AI.
+• Chamath shows data demonstrating China's increasing investment in science research, now matching the US at about half a trillion dollars annually.
+
+Science Corner: Mitochondria Therapy
+
+• David Friedberg explains that mitochondria are organelles in cells that produce energy (ATP) and have their own DNA.
+• He highlights three recent research papers: one showing mitochondria can transfer between cells, another mapping mitochondria in the human brain, and a third demonstrating how to produce large quantities of highly efficient mitochondria from stem cells.
+• This research could lead to "mitotherapy," a new therapeutic approach for treating diseases like Alzheimer's, Parkinson's, ALS, and certain cancers by addressing mitochondrial dysfunction.
+• Researchers have successfully used mitochondrial therapy to repair damaged cartilage in a mouse model of osteoarthritis, suggesting applications for sports injuries.
+• The technology could potentially be applied to cerebrospinal fluid to improve brain function or to damaged heart tissue after heart attacks.

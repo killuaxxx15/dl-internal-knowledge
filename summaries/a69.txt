@@ -1,0 +1,36 @@
+The Golden Opportunity for American AI featuring Brad Smith – Betting on America
+
+AI as a General-Purpose Technology
+
+• AI will become a transformative general-purpose technology like electricity, powering applications across all sectors of the economy rather than serving single purposes
+• Healthcare examples include AI-powered note-taking during patient visits and radiological analysis tools that help doctors diagnose chest X-rays more efficiently
+• Unlike electricity and telephones which required building new physical infrastructure grids, AI can leverage existing internet and wireless networks for faster adoption
+• Adoption timeline expected to be 15-20 years rather than the 50+ years required for grid-dependent technologies
+
+Massive Infrastructure Investment Requirements
+
+• Microsoft alone is investing over $80 billion this year in datacenter construction, with industry-wide AI infrastructure spending potentially reaching $2 trillion by 2030
+• Critical bottlenecks include land acquisition, electricity generation, cooling systems, advanced GPU chips, and skilled labor shortages (particularly electricians)
+• The shift represents a fundamental change in tech economics from primarily people-based costs to capital-intensive infrastructure investments
+• Success requires coordinated efforts between private sector and government on zoning, permitting, and workforce development
+
+AI Services as Export Opportunity
+
+• The US has the potential to become the world's leading exporter of AI services, creating significant domestic employment opportunities
+• AI service exports often drive complementary manufacturing exports (example: American-made generators for overseas datacenters)
+• Success depends on maintaining global trust in American technology and avoiding overly restrictive export controls
+• Historical precedent shows the risks of losing market leadership, as seen in telecommunications equipment where Chinese companies displaced American suppliers in Africa
+
+Strategic Competition and Global Trust
+
+• The US currently maintains technological advantages over China across all AI stack components (chips, infrastructure, platforms)
+• America's key competitive advantage lies in global trust regarding security, privacy, digital safety, and respect for sovereignty
+• Export controls should follow nuclear power plant models (123 Agreements) - enabling safe technology transfer through trusted partnerships rather than blanket restrictions
+• The Microsoft-G42 partnership in the UAE demonstrates how trusted partnerships can extend American AI capabilities to new regions while maintaining security standards
+
+Addressing Global Digital Divide
+
+• AI adoption faces the same uneven distribution challenges as electricity, with 700 million people still lacking basic electrical access
+• Developing countries show high AI optimism but low preparedness, creating opportunities for American technology partnerships
+• Success in Africa and other developing regions requires financial innovation, development finance, and shared data usage agreements
+• Early market entry is crucial to prevent Chinese AI dominance in emerging markets, similar to what occurred in telecommunications

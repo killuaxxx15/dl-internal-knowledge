@@ -1,0 +1,89 @@
+TSMC Founder Morris Chang
+
+The Origin of NVIDIA and TSMC's Partnership
+
+• In 1997, Jensen Huang sent a letter to Morris Chang after TSMC's San Jose office ignored NVIDIA's outreach; at the time, NVIDIA faced bankruptcy with only 50-60 employees while TSMC had already exceeded $1 billion in revenue
+• Chang, irritated by his sales team ignoring a potential customer, personally visited NVIDIA during his next trip to California
+• During their first meeting, Jensen impressed Chang with his articulation and optimism, boldly predicting that NVIDIA would become a major TSMC customer
+• The chip they discussed (a gaming chip) proved enormously successful, solving NVIDIA's financial problems and making them one of TSMC's top five customers within a few years
+• This established a long-term partnership where TSMC manufactured chips designed by NVIDIA, a relationship that continues today at immense scale
+
+The 40-Nanometer Crisis and Resolution (2009)
+
+• In 2009, TSMC faced significant manufacturing and quality problems with its 40-nanometer node, which particularly affected NVIDIA as their largest customer on that node
+• The acting CEO at the time (before Chang retook the position) insisted TSMC was not at fault and offered NVIDIA nothing to resolve the issue
+• After Chang returned as CEO, he investigated the problem thoroughly, spending nearly half his time on resolving the NVIDIA dispute during his first weeks back
+• Chang eventually determined a fair compensation amount exceeding $100 million and personally met with Jensen at his home, first sharing a friendly dinner before presenting a non-negotiable 48-hour offer
+• Jensen accepted the offer within two days, preserving the relationship that has since generated billions in business between the companies
+
+Morris Chang's Leadership Philosophy
+
+• When Chang returned as CEO in 2009, he immediately addressed a controversial layoff of 600-700 employees based on performance reviews, a practice he strongly disagreed with
+• Chang believed layoffs based on performance reviews were subjective and not credible; he also argued companies shouldn't lay off if they might need to rehire within a year
+• The laid-off employees had protested at Chang's home, with some even camping overnight in a nearby park; Chang's wife brought them breakfast the next morning
+• Chang offered to rehire anyone who was interested in returning, setting a new vision while returning to established principles
+• He kept the former CEO on staff as president of new businesses (solar and LED), maintaining his salary and telling him he was still a potential successor
+
+The Strategic Decision for 28-Nanometer Investment
+
+• After returning as CEO, Chang set R&D spending at a fixed 8% of revenue regardless of economic conditions, providing stability and resources to the R&D team
+• In 2010, Chang dramatically increased capital expenditures from about $2-2.5 billion annually to almost $6 billion, betting heavily on the 28-nanometer node
+• R&D leaders convinced Chang that 28-nanometer would be a "sweet spot," and Chang quoted Shakespeare: "There is a tide in the affairs of men which, taken at the flood, leads on to fortune"
+• This massive capital increase faced board opposition, but Chang insisted as the operational leader of the company
+• The investment proved successful, coinciding with the smartphone era and establishing TSMC's leadership at the leading edge of chip manufacturing
+
+TSMC's Organizational Philosophy
+
+• Chang strongly believed the foundry business was better suited to a functional organizational structure rather than divisional, despite attempts by others to split operations
+• When Chang returned as CEO in 2009, he combined the previously split "advanced" and "mainstream" technology groups and created a unified business development department
+• Chang offered the business development leadership role to Mark Liu (who declined) before C.C. Wei accepted; Wei would later become TSMC's Chairman and CEO
+• Chang compared the business development role to Kissinger as National Security Advisor - fewer direct reports than the Secretary of State but potentially more strategic influence
+• Chang personally spent much of his time "on planes meeting with customers," building relationships that he considered a personal pleasure
+
+The Apple Relationship: A Pivotal Moment
+
+• In November 2010, Terry Gou (founder of Foxconn and relative of Chang's wife) unexpectedly brought Jeff Williams (Apple COO) to Chang's home for dinner
+• Williams directly proposed that TSMC foundry Apple's wafers, mentioning they would "let TSMC have 40% gross margin" (though TSMC's margin was already 45%)
+• Apple requested a 20-nanometer process rather than the 28-nanometer TSMC was preparing - a half-step "detour" that would require significant additional investment
+• After financial planning with Goldman Sachs, Chang decided to take only half of Apple's requested production, requiring billions in debt but avoiding cutting dividends
+• Though initially met with shock from Apple's purchasing team, Jeff Williams ultimately accepted the partial commitment when Chang explained it directly
+
+Intel's Attempt to Win Apple's Business
+
+• In February 2011, Jeff Williams informed Chang that discussions needed to pause for two months as "the highest level of Intel" had approached Tim Cook about working with Intel
+• Chang wasn't overly concerned, believing TSMC was competitive with Intel on technology, better in manufacturing, and more trusted by customers
+• A month later, Chang visited Apple and met with Tim Cook, who assured him "Intel just does not know how to be a foundry"
+• Chang interpreted this to mean Intel lacked the customer service orientation needed - they didn't know how to "respond to every request courteously" as TSMC had learned to do
+• The relationship with Apple proceeded, though the decision to develop the 20-nanometer node for Apple delayed TSMC's 16-nanometer process, temporarily giving Samsung an advantage
+
+The Learning Curve Theory and TSMC's Strategy
+
+• Chang worked closely with Bill Bain (later founder of Bain & Company) at Texas Instruments to refine the "learning curve" or "experience curve" theory for semiconductors
+• The basic premise is that as a company makes more of something, the cost per unit decreases due to increased efficiency and experience
+• Chang used this thinking tool throughout his career, including at TSMC, to guide strategic decisions and pricing
+• Understanding the learning curve led Chang to realize TSMC would never stop at just two fabs, as scale was essential to driving down costs
+• This focus on achieving maximum volume to gain cost advantages became a core strategic principle for TSMC
+
+Spotting the Fabless Revolution
+
+• Chang saw the fabless trend coming through encounters like meeting Gordie Campbell, who initially sought $50 million to start a company but later reduced his ask to $5 million after deciding not to build a fab
+• Early experiences with companies like Atmel showed Chang both the difficulties and advantages of the foundry business model
+• The difficulty: satisfying many customers who each wanted the fab run their way when you can only run it one way
+• The advantage: having many customers rather than depending on internal business units
+• Chang intentionally positioned TSMC as a pure-play foundry that would not compete with its customers - a decision that proved crucial to their long-term success
+
+The Taiwan Semiconductor Ecosystem
+
+• The Hsinchu Science Park, where TSMC is headquartered, represents perhaps the most successful government-funded industry initiative of all time
+• The science park houses not just TSMC but all parts of the semiconductor ecosystem: design firms, equipment vendors, software companies, and even universities producing PhDs
+• This concentrated ecosystem enables close communication and integration that would be difficult to replicate elsewhere
+• TSMC's manufacturing advantages are deeply tied to this ecosystem, making it challenging to recreate the same capabilities in other locations like Arizona
+• The physical scale of TSMC's operations is massive, with individual fab buildings covering many football fields in area and costing $20+ billion each
+
+TSMC's Current Position and Future Outlook
+
+• Since founding in 1987, TSMC has ridden the semiconductor market's growth from $26 billion to $527 billion annually
+• The company has emerged as perhaps the only non-US West Coast trillion-dollar company in the world
+• TSMC now achieves gross margins of 55-57%, though their customers often achieve 70-80% margins
+• The company continually reinvests its profits in massive capital expenditures for new fabs and R&D for new process nodes
+• As the costs to build leading-edge fabs continue to rise (potentially reaching $100 billion per fab in the future), the industry's natural monopoly characteristics suggest TSMC's leadership position will likely strengthen

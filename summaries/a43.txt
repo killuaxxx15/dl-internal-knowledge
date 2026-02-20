@@ -1,0 +1,113 @@
+View From The Top with Ken Griffin, Founder and CEO of Citadel
+
+Early Entrepreneurial Journey and Market Entry
+
+• Griffin started trading convertible bonds from his Harvard dorm room at age 19, installing a satellite dish to get real-time data in the pre-internet era of the 1980s
+• His background in software engineering and mathematics positioned him perfectly to solve derivative pricing problems that were cutting-edge at the time
+• The skills that made him successful were specifically relevant to that moment in time - derivative pricing work from the late 80s and early 90s is now standard curriculum in finance textbooks
+• He never originally intended to make trading a career, having initially wanted to pursue private equity
+• Griffin emphasizes that entrepreneurs succeed when they have the right skill set to solve the problems of their specific moment in time
+
+Founding Citadel at Age 22
+
+• Griffin founded Citadel in 1990 with a couple million dollars of seed funding from a Chicago-New York based firm
+• The Chicago partner reminded him of a high school physics teacher, which created a personal affinity that influenced his decision to work with them
+• The investors backed him because if he could succeed in college trading, he was resourceful enough to warrant investment
+• Griffin advocates for taking risks in your 20s when you have "nothing to lose" - no mortgage, no children, and limited downside
+• His advice: when you're young, your worst-case scenario isn't that bad, but taking risks in your 40s carries much more downside
+
+Building Competitive Advantage and Early Strategy
+
+• Griffin couldn't compete head-to-head with established firms like JP Morgan or Goldman Sachs, so he focused on getting "underneath the radar"
+• He hired bright undergraduates and graduate students, paying better than Wall Street and offering significant responsibility
+• Many early employees went on to major positions on Wall Street, from Chief Operating Officer at JP Morgan to running foreign exchange at Credit Suisse
+• The firm combined raw talent with selective hiring of experienced professionals who could provide wisdom and knowledge
+• Wall Street was initially skeptical of quantitative analytics, which gave Citadel an advantage - Griffin famously hired a Russian rocket scientist
+
+The Importance of Sales and Business Development
+
+• Griffin learned early that "if we're all going to eat, someone has to sell" - a lesson from a $10 plaque in his partner's office
+• Entrepreneurs must constantly sell to candidates, vendors, counterparties, and customers
+• In 1994, during a rough year when Citadel lost 4% of capital, Griffin experienced brutal rejections while fundraising in Switzerland
+• He emphasizes that hearing "no" frequently is inevitable in business, and entrepreneurs must develop tolerance for rejection
+• Sales skills are underemphasized in academia but critical for entrepreneurial success
+
+Strategic Thinking and Competitive Positioning
+
+• If starting Citadel today, Griffin's first question would be establishing a clear competitive advantage
+• Strategy sessions at Citadel focus on building competitive advantages, strengthening moats, analyzing competitors, and identifying ideas worth copying or improving
+• All successful businesses must create products that meet consumer needs at prices that leave reasonable margins
+• Griffin uses the iPhone as an example of a "killer product" that solves multiple daily problems for consumers
+• The fundamental question for any business: "What is your killer app? What is your product that looks like the iPhone?"
+
+Technology Evolution and AI Impact
+
+• Griffin provides historical context on high-frequency trading, which was coined by his string theorist partner as a contrast to longer-term equity strategies
+• The partner became interested in shorter-horizon trading after government funding ended for the super collider, ending his string theory career aspirations
+• Many derivatives traders on Wall Street have similar backgrounds in theoretical physics, particularly string theory
+• Machine learning has evolved from the 1990s when computational power was insufficient, through Google's breakthrough with TensorFlow
+• Citadel implemented TensorFlow in production for equity trading within 10 days of its release, influencing one in four US stock market trades
+
+Generative AI: Capabilities and Limitations
+
+• Griffin views generative AI as incremental progress in the broader machine learning journey rather than revolutionary change
+• In finance, AI provides modest productivity enhancements but won't revolutionize investment processes
+• Machine learning models excel with static relationships but struggle with investing's core challenge: predicting future changes
+• AI works well for short-term trading (next five minutes) but fails for longer-term predictions (next year or two)
+• The fundamental limitation: AI models are trained on historical data, while investing requires understanding future developments
+
+AI's Transformational Impact on Other Industries
+
+• Call centers will be extinct within 5-10 years as AI improves customer service capabilities
+• Language translation will dramatically reduce workforce needs - one multinational expects to cut documentation staff from 8,000 to 1,000 within three years
+• Marketing will become highly personalized - pet insurance companies can target ads when users post photos of new pets on social media
+• These changes will displace high-paying, skilled white-collar workers who will need to pivot careers mid-stream
+• Society must address the human cost of AI displacement to prevent backlash against the technology
+
+Investment Philosophy and Market Evolution
+
+• Modern markets are "phenomenally less competitive" than when Griffin started, partly due to Citadel's influence
+• The firm pioneered deep sector expertise with world-class portfolio managers and analysts who "know their companies cold"
+• Other large hedge funds copied this model, making markets more competitive but also more efficient for capital allocation
+• Griffin's 1990s stock-picking knowledge is no longer relevant due to increased market sophistication
+• He shares an anecdote about calling a CFO who admitted the company would likely be "bought out of bankruptcy" - such transparency no longer exists
+
+Risk Management and Team Resilience
+
+• Citadel operates as a "team sport" with extraordinarily strong partners providing resilience during difficult periods
+• Good investors need people around them who can provide rational perspective during emotional moments
+• Griffin acknowledges he gets emotional about positions and relies on colleagues to challenge him when he's "dead wrong"
+• The firm culture embraces risk-taking without shame, attracting people who want to be risk takers rather than hiding behind fiduciary language
+• Investors expect them to "outthink, out hustle, and outwork the competition" and "bet on winning ideas"
+
+Characteristics of Great Investors
+
+• Great investors have clarity about their competitive advantages and conduct differentiated research
+• They make capital commitments with conviction when they have strong viewpoints
+• When wrong, they acknowledge errors and move on without emotional attachment ("no tears")
+• They avoid sunk cost fallacies and view wins and losses as "tuition bills" for professional development
+• They analyze both successes and failures to understand what drove outcomes and find more winning opportunities
+
+Learning and Mentorship Philosophy
+
+• Griffin emphasizes the critical importance of continuous learning throughout one's career
+• The most important skill from education is "learning how to learn" because professionals will need entirely new toolkits over 40-50 year careers
+• He strongly advises against being the smartest person in the room - if you are, you've made a serious career mistake
+• American culture is "generationally kind and generous" with older professionals willing to mentor younger ones
+• Building relationships with people you can learn from - colleagues, customers, competitors, and mentors - is essential for growth
+
+Performance Expectations and Mental Fortitude
+
+• Citadel's market-making business achieves approximately 52% win rate across millions of daily trades
+• Even the best stock pickers are right only about 54% of the time in alpha terms
+• This requires remarkable mental fortitude to perform well when success rates would be considered failure in most other professions
+• Griffin contrasts this with academic environments where 54% would result in expulsion or medical careers where 54% patient survival would end careers
+• Markets dictate terms of engagement with grading systems that aren't curved like academic settings
+
+Legacy and Future Aspirations
+
+• Griffin believes his most important accomplishments lie ahead rather than behind him
+• Citadel has helped democratize finance by dramatically reducing trading costs worldwide
+• The firm originated Operation Warp Speed, potentially saving half a million lives in the United States during COVID-19
+• The concept applied commodities trading expertise (logistics and time-to-market) to vaccine development and distribution
+• Griffin played a role in legislation addressing the digital divide in inner-city and rural America, though implementation remains pending

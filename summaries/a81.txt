@@ -1,0 +1,50 @@
+He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
+
+Career Philosophy and Adaptability
+
+• Success across multiple roles (Google PM, Facebook CTO, Salesforce co-CEO, OpenAI board chair) stems from having a flexible view of identity and being willing to transform into what the company needs
+• Key mindset: "What is the most impactful thing I can do today?" rather than conforming jobs to personal preferences
+• Sheryl Sandberg's feedback was pivotal - taught him to focus on maximum impact rather than just doing things he enjoyed
+• Derives joy from impact itself, making previously unenjoyable tasks rewarding when they drive meaningful outcomes
+
+Learning from Failure: Google Local to Google Maps
+
+• Google Local failed despite prominent placement on Google homepage because it was essentially a "me-too" version of Yahoo Yellow Pages
+• Key lesson: Don't just digitize existing solutions - create entirely new experiences that are native to the platform
+• Google Maps succeeded by making the map the canvas and integrating multiple product categories (mapping, local search, directions)
+• Satellite imagery provided the "sizzle" that created viral adoption, demonstrating the difference between core utility and viral moments
+
+The Future of AI and Agents
+
+• The AI market will consolidate into three segments: frontier models (dominated by hyperscalers), tooling companies (risk of being commoditized), and applied AI/agents (biggest opportunity)
+• "Agent is the new app" - agents will drive true productivity gains by autonomously accomplishing jobs rather than just making humans slightly more productive
+• This represents a fundamental shift comparable to the cloud transition, moving the entire market toward outcomes-based pricing
+• Unlike previous software that helped individuals be more productive, agents actually eliminate entire job functions (like draftspeople in engineering firms)
+
+Outcomes-Based Pricing Revolution
+
+• Traditional productivity software is hard to sell because value attribution is difficult and gains are often unmeasurable
+• Agents enable outcomes-based pricing because they autonomously complete measurable tasks (e.g., resolving customer service calls)
+• Sierra charges based on successful call deflections rather than usage metrics, aligning business models between vendor and customer
+• This pricing model transforms vendors into true partners and forces extreme customer-centricity since payment depends on actual outcomes
+
+Coding and Computer Science Education
+
+• Still valuable to study computer science for systems thinking, even as coding becomes increasingly automated
+• The act of writing code will transform from typing to operating code-generating machines, but understanding complexity theory, algorithms, and system design remains crucial
+• Need for new programming systems (not just languages) designed for AI rather than human ergonomics - prioritizing verifiability and robustness over readability
+• Future programming will focus on constraining and directing AI systems rather than manual code creation
+
+Go-to-Market Strategy for AI Companies
+
+• Three proven models: developer-led (works for platform products sold to engineering teams), product-led growth (works when user equals buyer), and direct sales (necessary when buyer and user are different people)
+• Many AI companies should leverage direct sales more than they do, despite its reputation, because AI products often have separate buyers and users
+• Common mistake is choosing go-to-market motion without considering the actual purchasing and evaluation process
+• Success requires matching the right model to your specific product category and buyer dynamics
+
+Sierra's Customer Success
+
+• Achieves 50-90% automation of customer service interactions across diverse industries (healthcare, finance, retail, telecommunications)
+• High customer satisfaction scores (4.6-4.7 out of 5) despite handling customer problems, proving AI can delight rather than frustrate
+• Vision: Every customer interaction becomes instant, multilingual, personalized, and available across all channels
+• Goal is to recreate the personal service experience (like knowing your local butcher) at scale for companies with millions of customers

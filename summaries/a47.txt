@@ -1,0 +1,105 @@
+Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)
+
+Introduction and Overview of LLM Components
+
+• Large Language Models (LLMs) are the foundation of modern chatbots like ChatGPT from OpenAI, Claude from Anthropic, Gemini, and Llama, representing a fundamental shift in how we interact with AI systems
+• Five critical components determine LLM success: architecture (transformers), training loss and algorithms, data quality and processing, evaluation methodologies, and systems optimization for modern hardware
+• The lecture focuses primarily on data, evaluation, and systems rather than architecture, as these three components have the greatest practical impact on model performance and are where industry concentrates most efforts
+• Academic research historically overemphasizes architecture and training algorithms, while industry success depends more heavily on data curation, proper evaluation, and efficient systems implementation
+• The distinction between pre-training (modeling internet text) and post-training (creating AI assistants) represents the evolution from GPT-3 to ChatGPT, marking a paradigm shift in LLM applications
+
+Language Modeling Fundamentals
+
+• Language models are probability distributions over sequences of tokens or words, essentially modeling P(X1 to XL) where each X represents a word or token in a sequence
+• These models capture both syntactic knowledge (grammatical correctness) and semantic understanding (logical relationships between concepts), enabling them to assess sentence plausibility
+• Autoregressive language models decompose probability distributions using the chain rule, predicting each word based on all previous context: P(next word | all previous words)
+• The autoregressive approach has inherent limitations, particularly slower generation for longer sequences due to the sequential nature of word prediction in a for-loop structure
+• Modern LLMs are generative models because they can sample from learned probability distributions to create new text, making them powerful tools for content creation
+
+Tokenization and Vocabulary Management
+
+• Tokenizers solve critical problems that simple word-based approaches cannot handle: dealing with typos, languages without clear word boundaries (like Thai), and managing sequence length efficiency
+• Byte Pair Encoding (BPE) is a common tokenization algorithm that starts with individual characters and iteratively merges the most frequent character pairs to create optimal subword tokens
+• The tokenization process typically results in tokens averaging 3-4 letters each, balancing between granular character-level representation and efficient sequence length management
+• Tokenizers create significant challenges for mathematical reasoning and code understanding, as numbers and programming constructs may not be tokenized in intuitive ways that align with human comprehension
+• Vocabulary size directly impacts model architecture since the output layer must match the number of possible tokens, making tokenizer design a crucial architectural decision
+
+Training Process and Loss Functions
+
+• LLM training uses cross-entropy loss for next-token prediction, which is mathematically equivalent to maximizing the log-likelihood of the training text
+• The training process involves embedding tokens into vector representations, passing them through transformer networks, and using linear layers to project to vocabulary-sized outputs
+• Neural autoregressive language models follow a standard pipeline: token embedding → transformer processing → linear projection → softmax → probability distribution over next tokens
+• Minimizing cross-entropy loss is equivalent to maximizing text likelihood, creating a direct connection between the optimization objective and the probabilistic interpretation of language modeling
+• The training objective remains consistent between pre-training and fine-tuning phases, with differences primarily in data selection and hyperparameter choices rather than fundamental loss functions
+
+Evaluation Methodologies for Language Models
+
+• Perplexity serves as the primary evaluation metric during development, representing the exponential of average per-token loss and intuitively measuring how many tokens the model hesitates between
+• Perplexity improvements from 2017-2023 were dramatic, decreasing from approximately 70 tokens to less than 10 tokens, indicating substantial progress in model certainty and accuracy
+• Academic benchmarks like MMLU (Massive Multitask Language Understanding) evaluate models using multiple-choice questions across diverse domains including medicine, physics, and astronomy
+• Evaluation methodology significantly impacts reported performance, with different approaches to the same benchmark (like MMLU) yielding dramatically different results for identical models
+• Train-test contamination poses a serious challenge for academic evaluation, requiring sophisticated detection methods like analyzing the likelihood of generating examples in original versus randomized order
+
+Data Collection and Processing Pipeline
+
+• The data pipeline begins with web crawling approximately 250 billion pages (about 1 petabyte) using services like Common Crawl, capturing the vast majority of publicly accessible internet content
+• Text extraction from HTML presents numerous technical challenges including mathematical content processing, boilerplate removal, and handling diverse formatting across millions of websites
+• Content filtering involves multiple stages: removing harmful/NSFW content, eliminating personally identifiable information (PII), and applying extensive blacklists of undesirable websites and sources
+• Deduplication processes target redundant headers, footers, repeated URLs, and commonly copied text passages that appear thousands of times across different websites
+• Quality filtering uses both rule-based heuristics (token distribution analysis, word length patterns, document length bounds) and model-based approaches trained on Wikipedia-referenced content
+
+Data Scaling and Domain Balancing
+
+• The academic benchmark "The Pile" demonstrates typical data composition: Archive content, PubMed Central, Wikipedia, Stack Exchange, GitHub repositories, and book collections
+• Closed-source models show dramatic scaling: Llama 2 trained on 2 trillion tokens, Llama 3 on 15 trillion tokens, with GPT-4 estimated at similar scales based on leaked information
+• Domain classification and reweighting is crucial, with code and books typically upweighted due to their positive impact on reasoning capabilities, while entertainment content is often downweighted
+• The final training phase often involves high-quality data overfitting, where models are fine-tuned on carefully curated sources like Wikipedia with reduced learning rates
+• Data collection remains one of the most secretive aspects of LLM development due to competitive advantages and potential copyright liability issues
+
+Scaling Laws and Resource Allocation
+
+• Scaling laws demonstrate predictable relationships between compute, data size, model parameters, and performance, with linear relationships observable when plotted on log-log scales
+• These relationships enable prediction of model performance based on resource allocation, fundamentally changing how organizations plan and execute large-scale training projects
+• The Chinchilla paper established optimal training ratios, suggesting 20 tokens per parameter for training-optimal models, though inference considerations push toward 150 tokens per parameter
+• Scaling laws enable comparing different architectures (transformers vs LSTMs) by fitting curves at smaller scales and extrapolating to predict performance at larger scales
+• The "bitter lesson" suggests that leveraging increased compute through scalable architectures matters more than clever algorithmic innovations, reshaping research priorities
+
+Training Infrastructure and Costs
+
+• Llama 3 400B training required approximately 26 million GPU hours on 16,000 H100 GPUs over 70 days, representing massive computational resources
+• Training costs are estimated around $52 million in GPU rental fees alone, with additional salary costs bringing total expenses to approximately $75 million
+• Carbon emissions for large model training (around 4,000 tons CO2 equivalent) currently remain manageable, equivalent to 2,000 round-trip flights from JFK to London
+• Each new model generation typically increases computational requirements by 10x, suggesting exponential growth in resource needs for state-of-the-art models
+• The Biden administration's executive order sets scrutiny thresholds at 1E26 flops, influencing how companies structure their training runs to avoid regulatory oversight
+
+Post-Training and Alignment Fundamentals
+
+• Post-training transforms pre-trained language models into AI assistants, addressing the gap between next-word prediction and following human instructions effectively
+• Supervised Fine-Tuning (SFT) uses human-generated question-answer pairs to teach models appropriate response formatting, requiring surprisingly small datasets (2,000-32,000 examples)
+• SFT effectiveness stems from specializing models toward specific user types rather than teaching new knowledge, since pre-training already exposed models to diverse internet users
+• The limited data requirements for SFT reflect that models primarily learn response formatting rather than acquiring new factual knowledge or capabilities
+• Synthetic data generation using LLMs (like the Alpaca project) can effectively replace human-generated training data, scaling from 175 human examples to 52,000 synthetic examples
+
+Reinforcement Learning from Human Feedback (RLHF)
+
+• RLHF addresses fundamental limitations of supervised fine-tuning: being bounded by human generation ability, potential hallucination issues, and high costs of generating ideal responses
+• The RLHF pipeline involves generating multiple responses, collecting human preferences, and training models to maximize preferred outputs rather than cloning human behavior
+• Reward models serve as learned preference functions, using the Bradley-Terry model to convert binary human preferences into continuous reward signals for optimization
+• Proximal Policy Optimization (PPO) was the original method used by ChatGPT, but it involves complex implementation challenges including rollouts, clipping, and multiple optimization loops
+• Direct Preference Optimization (DPO) simplifies RLHF by directly maximizing likelihood of preferred responses while minimizing likelihood of rejected responses, achieving equivalent performance with much simpler implementation
+
+LLM-Based Evaluation and Benchmarking
+
+• Traditional evaluation metrics like perplexity become unreliable after alignment because models optimize for single best responses rather than modeling probability distributions
+• Chatbot Arena provides the gold standard for evaluation, using blind comparisons by real users across hundreds of thousands of interactions to generate reliable model rankings
+• LLM-as-judge evaluation achieves 98% correlation with human preferences while reducing costs by 50x and evaluation time to under 3 minutes per benchmark
+• Length bias represents a significant challenge in both human and LLM evaluation, with longer responses consistently preferred regardless of quality or appropriateness
+• Synthetic preference data using LLMs can be 50x cheaper than human annotation while achieving better agreement with human consensus than humans achieve among themselves
+
+Systems Optimization and Hardware Considerations
+
+• GPU architecture optimizes for throughput rather than latency, featuring many parallel cores (streaming multiprocessors) designed for simultaneous execution of identical operations
+• Model FLOP utilization typically reaches only 45-50% even in well-optimized systems, indicating that data communication rather than computation becomes the primary bottleneck
+• Mixed precision training uses 16-bit floats for computation while maintaining 32-bit weights, reducing memory bandwidth requirements without significant accuracy loss
+• Operator fusion techniques like torch.compile can double model performance by combining multiple operations into single GPU kernels, minimizing expensive memory transfers
+• Communication costs between GPUs grow quadratically with model size, making efficient parallelization strategies crucial for large-scale training and inference

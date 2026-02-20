@@ -1,0 +1,57 @@
+Balaji Srinivasan: How AI Will Change Politics, War, and Money
+
+Polytheistic vs. Monotheistic AI Framework
+
+• Multiple competing AGI systems will emerge from different cultures rather than one unified system, including American AI, Chinese AI, and decentralized open-source models
+• Each culture will develop its own integrated stack: social network, cryptocurrency, and AI as their "oracle" at the center of society
+• This framework reduces AI apocalypse concerns since no single entity controls all AI development
+• The polytheistic model is already materializing with rapid emergence of diverse high-quality open-source models
+
+AI's Fundamental Limitations
+
+• AI cannot predict chaotic systems, turbulent flows, or cryptographic equations due to mathematical and physical bounds on computation
+• Current AI systems lack goal-setting, reproduction, embodiment, and cannot act independently of humans
+• AI performs "middle-to-middle" processing, requiring human prompting and verification rather than end-to-end automation
+• Prompting is a high-dimensional direction problem - like pointing a spaceship where you need precise coordinates in complex space
+
+Visual vs. Verbal AI Performance
+
+• AI excels at visual, stateless tasks (images, UI generation) where outputs can be quickly verified through gestalt impression
+• AI struggles with verbal, stateful tasks (backend code, legal documents, mathematical proofs) that require line-by-line verification
+• Visual outputs are easily verifiable with existing GPU hardware, while complex code requires expensive system-two thinking to validate
+• This creates a clear division in AI's practical applications and commercial viability
+
+AI as Amplified Intelligence
+
+• AI amplifies existing human intelligence rather than replacing it - smarter users achieve better results and higher productivity gains
+• Better writers become better prompters; domain experts can communicate more effectively with AI using specialist vocabulary
+• AI creates management-like roles for everyone, requiring clear instruction-giving and output verification skills
+• The technology makes "everyone a CEO" by democratizing access to sophisticated analytical and creative capabilities
+
+Market and Political Limitations
+
+• AI fails in time-varying, rule-changing, adversarial environments like financial markets and politics
+• These systems require human sensors who understand market dynamics and can adapt to changing conditions
+• The CEO/creator role remains critical for sensing markets and providing strategic direction to AI systems
+• AI works best in time-invariant systems with static rules (games, image classification) rather than dynamic competitive environments
+
+Economic and Social Disruption
+
+• AI will create massive verification and proctoring industries as society adapts to widespread synthetic content
+• International wage convergence likely as AI enables global talent arbitrage - potentially 10x increase for developing world, 10x decrease for developed world
+• Anti-AI backlash already emerging similar to anti-crypto sentiment, with unions and organizations restricting AI use
+• Media organizations creating union contracts prohibiting AI use, making them vulnerable to AI-enabled competitors
+
+Geopolitical and Security Implications
+
+• "Killer AI" already exists in the form of autonomous drones and military systems - more immediate threat than chatbots
+• Digital borders will become as important as physical borders due to drone capabilities and remote control systems
+• China's Great Firewall philosophy of digital border control positions them well for this new security paradigm
+• Alternative is "encrypted states" that gain security through geographic obscurity rather than defined territories
+
+Crypto-AI Integration
+
+• Cryptocurrency provides deterministic verification capabilities that complement AI's probabilistic outputs
+• "AI makes everything fake, crypto makes it real again" - crypto serves as the hard mathematical foundation AI cannot fake
+• On-chain data will become increasingly important for AI citations and verification as more data moves to blockchain
+• Crypto instruments can timestamp and hash data capture in real-time, creating tamper-proof records for AI training and verification

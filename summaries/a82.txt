@@ -1,0 +1,43 @@
+Mark Zuckerberg – AI Will Write Most Meta Code in 18 Months
+
+Llama 4 Model Development and Strategy
+
+• Meta has released the first two Llama 4 models (Scout and Maverick), with more coming including "Little Llama" and the massive "Behemoth" model with over 2 trillion parameters
+• These models prioritize intelligence per cost and low latency for consumer applications, designed to run efficiently on single hosts
+• Meta focuses on building what they need internally first, then open-sourcing it, rather than optimizing for external benchmarks like chatbot arena
+• The company expects AI to write most of Meta's code within 12-18 months, moving beyond autocomplete to goal-oriented programming with testing and debugging capabilities
+
+Open Source vs Closed Source AI Competition
+
+• Zuckerberg believes 2024 was a strong year for open source AI, with the prediction that open source models would become most widely used proving accurate
+• He acknowledges reasoning models (like GPT-o1) represent a specialization toward math and coding, but Meta prioritizes latency and cost-effectiveness for consumer products
+• Meta's Llama license requires companies with 700M+ users to negotiate terms, which Zuckerberg defends as reasonable given Meta's billions in training investment
+• The company worries that other players might abandon open source if Meta stops pushing the industry in that direction
+
+Meta AI Product Growth and Vision
+
+• Meta AI now has nearly 1 billion monthly users, primarily through WhatsApp integration, with personalization becoming a key differentiator
+• The standalone Meta AI app is launching to capture the US market where WhatsApp isn't dominant
+• Zuckerberg envisions AI becoming conversational throughout daily life via phones, apps, and eventually AR glasses with full-duplex voice interaction
+• The focus is on natural, multimodal experiences that integrate seamlessly into existing social platforms rather than replacing human connections
+
+Physical Infrastructure and Geopolitical Competition
+
+• Meta is building gigawatt-scale compute clusters, emphasizing that physical infrastructure buildout creates real-world bottlenecks that limit fast AI takeoff scenarios
+• China's advantage in power generation and data center construction poses a competitive threat, while US export controls force competitors like DeepSeek to focus on optimization rather than capabilities
+• Zuckerberg argues the US needs to streamline data center and energy infrastructure development to maintain AI leadership
+• He sees AI development as requiring co-evolution between technology capabilities, user adoption, and physical infrastructure rather than sudden breakthroughs
+
+Business Models and Economic Impact
+
+• Meta will maintain free, ad-supported AI services while developing premium offerings for high-compute applications like software engineering agents
+• Zuckerberg believes AI will increase demand for human workers rather than replace them, using customer support as an example where AI could make previously uneconomical services viable
+• The company expects AI to unlock massive creativity and cultural production, making the world "funnier and weirder" as creation tools become more accessible
+• Revenue models will vary by application, from traditional ads for consumer services to enterprise pricing for specialized AI agents
+
+Content Moderation and Government Relations
+
+• Zuckerberg admits to previously deferring too much to government and media pressure on content moderation decisions
+• He advocates for productive relationships with administrations regardless of political affiliation, emphasizing dialogue over confrontation
+• The company has learned from past mistakes, favoring community-driven solutions like Community Notes over traditional fact-checking
+• On AI governance, Meta focuses on product value and user feedback rather than optimizing for external benchmarks or regulatory preferences

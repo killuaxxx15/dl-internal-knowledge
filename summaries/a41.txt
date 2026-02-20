@@ -1,0 +1,65 @@
+Platinum Bombed - The Capital Cycle Podcast
+
+Investment Philosophy: Certainty Creates Risk
+
+• Investors increasingly seek certainty and comfort, driving up valuations of "quality" companies with stable business models, higher returns on capital, and little debt
+• This search for certainty creates heightened valuation risk as any deviation from expected outcomes can cause material drawdowns in equity values
+• Markets have become driven by a narrower subset of companies (like the Magnificent Seven) where investor belief in sustainability has reached extreme levels
+• When the state of the world changes, what investors felt was certain suddenly becomes very uncertain, creating investment opportunities on the contrarian side
+• This presents "Duffy's certainty instability hypothesis" - the more certainty in markets, the more valuation risk builds up, eventually creating uncertainty
+
+Platinum Group Metals Overview and Characteristics
+
+• Platinum Group Metals (PGMs) consist of three major commodities: platinum, palladium, and rhodium, with small amounts of gold extracted alongside
+• Primary use is in catalytic converters attached to combustion engines to remove harmful and toxic emissions, making them critical for clean cities and removing NOx emissions
+• They have unique properties including ability to withstand extremely high temperatures, making them effective catalysts with no alternatives outside the PGM group
+• Platinum is 20 times rarer than gold in terms of mining, and both platinum and palladium are official monetary metals (XPT and XPD respectively)
+• Jewelry demand accounts for 20% of platinum's overall demand, but these are predominantly industrial metals rather than monetary instruments
+
+Geographic Concentration and Supply Constraints
+
+• Supply is highly geographically concentrated: 80% of world's platinum is mined in South Africa, while palladium comes 45% from South Africa with remainder from Russia and small amounts from North America
+• The sector experienced a short-lived upcycle from 2020-2022 due to COVID supply disruptions and inventory stocking by auto OEMs
+• This was followed by significant price declines, with around 30% of the industry now loss-making on a cash basis
+• The industry has lost around 80% of its market capitalization over the last couple of years
+• Current prices have fallen to levels where it's no longer economic for a significant portion of the industry to produce
+
+Capital Cycle Analysis and Underinvestment
+
+• PGMs are exposed to long cycles similar to other mining industries, with the last major upcycle occurring around 2006-2008 before the recent 2020-2022 period
+• The industry experienced a painful bear market from 2012-2020, leading to significant underinvestment that is now setting up supply disruption
+• In eight of the last 10 years, capex spending has been below the level required to sustain current output
+• Mining costs have increased by about 6% per annum, and capex costs have increased similarly, yet nominal capex levels are broadly flat
+• The capex-to-depreciation ratio understates the degree of underinvestment because it's based on historic prices rather than current replacement costs
+
+Supply Disruption and Future Constraints
+
+• South African mines have seen reasonably significant declines in output and are expected to decrease by a further 10-15% over the next five years due to underinvestment
+• Replacement costs are estimated to be around two to three times above current market levels, disincentivizing companies from adding new capacity
+• Existing mines are being underinvested, storing up future supply problems, while new discoveries are not being made to replace mines reaching end of life
+• The industry is consolidated to about four main producers who operate cross-subsidized portfolios, making them reluctant to close individual loss-making assets
+• Supply response will likely come through inadvertent production misses rather than deliberate capacity cuts due to geological issues in underground mines
+
+Recycling Supply Challenges
+
+• Secondary supply from recycling accounts for approximately 20-25% of total industry supply, coming from scrapped vehicles after 8-10 years of useful life
+• With 30% of mines loss-making, it has become uneconomic to recycle PGM metals from catalytic converters due to processing costs
+• Each catalytic converter contains only two grams of metal valued at around $100, but labor, processing, and inventory financing costs make recycling unprofitable
+• Vehicles are being driven longer than anticipated, meaning metal stays in the existing fleet longer, further tightening supply
+• Strong projections about supply growth from recycling are disappointing due to the current price environment
+
+Demand Outlook and Electric Vehicle Impact
+
+• Long-term demand faces pressure from increasing battery electric vehicle market share, as EVs don't require catalytic converters
+• In China, EVs now represent over a third of annual vehicle sales, causing palladium demand to decline
+• However, in other markets, EV penetration is much slower than initial projections, creating less certainty about demand destruction
+• Internal combustion engine sales have been growing year-on-year in absolute terms, not shrinking as expected
+• Hybrid vehicles still require ICE engines with PGM loading, and heavy-duty trucks face tightening emission standards requiring more PGM per catalytic converter
+
+Investment Strategy and Market Dynamics
+
+• The physical commodity markets are quite tight, with annual usage versus supply in reasonably tight balance
+• A 2-3% supply miss puts the market into deficit, forcing customers to buy at higher spot prices or bid up prices, creating demand destruction elsewhere
+• Current opportunity exists at the intersection of constrained supply (observable through company actions) and uncertain demand forecasts
+• The best investment approach is a diversified basket of stocks rather than concentrated positions, as supply disruptions will benefit all producers
+• It's difficult to predict which specific company will experience supply outages, but confidence exists that industry-wide disruptions will occur

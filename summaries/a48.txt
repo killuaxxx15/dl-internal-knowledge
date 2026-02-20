@@ -1,0 +1,87 @@
+Webinar: Nearshoring, Onshoring, and Reshoring: Leveraging Global Supply Chains for Resiliency
+
+Current Trade Policy Landscape and Disruption
+
+• Tariff rates have reached their highest levels since the 1930s, representing a fundamental reversal from 50 years of U.S. policy focused on lowering tariff rates globally in exchange for reciprocal reductions from other countries.
+• The current administration has launched over half of all Section 232 investigations (related to national security) that have existed in the 100-year history of this authority, all within just the past five months, demonstrating an unprecedented rate of policy change.
+• Export control announcements are becoming frequent, with major announcements occurring regularly, such as recent chip-related controls targeting Huawei, creating additional complexity beyond traditional tariff considerations.
+• Investment restrictions and sanctions are increasingly affecting high-tech industries, while simultaneously new trade agreements are forming in other regions, creating both risks and opportunities in different trade corridors.
+• 80% of consumers are already scaling back consumption due to tariff-related concerns, and container shipments into the Port of LA were down 33% in early May 2024 compared to the previous year, showing real economic impact.
+
+Innovative Corporate Responses to Trade Challenges
+
+• Companies are employing creative "tariff engineering" strategies to navigate complex trade regulations, such as Delta rerouting new planes through different countries first so they can be classified as "used" aircraft subject to different tariff rates when entering the U.S.
+• Product modification for tariff classification changes is becoming common, with examples like Converse adding fuzzy material to shoe soles to reclassify them as slippers rather than shoes, thereby qualifying for different HS codes and lower tariff rates.
+• Technical companies have even more complex engineering opportunities due to more intricate rules and regulations, allowing for sophisticated approaches to tariff optimization through product design modifications.
+• These strategies represent a new form of cost engineering where companies must consider regulatory implications alongside traditional manufacturing and design decisions.
+
+Evolution of Sourcing Decision Framework
+
+• The traditional three pillars of sourcing (price, lead time, quality) have expanded to include a fourth pillar: strategic partnership, reflecting the new reality where supply chain resilience and geopolitical considerations are as important as traditional cost factors.
+• Dual sourcing strategies are becoming essential to protect against supply shocks and force majeure events, with companies recognizing that having multiple suppliers is critical for long-term stability rather than just cost optimization.
+• Supply chain diversification is now a main priority providing substantial returns during uncertain times, as companies that previously never thought about their supply chains due to seamless operations are now forced to build robust partnerships.
+• The current climate presents an opportunity for companies to emerge stronger than before by proactively rethinking and restructuring their supply chain strategies rather than simply reacting to disruptions.
+
+Xometry's Global Manufacturing Network and Capabilities
+
+• Xometry operates in 51 countries across four continents with headquarters in the US, Europe, and Asia, providing strategic positioning to support customers regardless of where disruptions occur and enabling rapid adaptation to geopolitical changes.
+• The global expansion strategy leverages regional manufacturing expertise, tapping into specific competencies that exist in different countries (such as specialized die casting, CNC machining, sheet metal work, or injection molding capabilities) to provide comprehensive solutions.
+• The network supports 18+ languages and diverse manufacturing capabilities, offering everything from simple PEM nut installation to complex electromechanical device assembly, robotics projects, and minor industrial activities.
+• Regional capabilities include both traditional and advanced manufacturing, with examples ranging from satellite components being built in India to seven-figure business operations in regions that might surprise customers.
+• The platform provides real-time cost comparisons between domestic and international options, allowing customers to see pricing differences instantly while configuring parts and making informed decisions about sourcing strategies.
+
+Production Support and Program Management
+
+• Production differs significantly from transactional business, requiring optimization for rigor rather than speed, with dedicated program management teams serving as specialized SWAT teams for complex manufacturing projects.
+• Comprehensive inspection capabilities include highly rigorous processes such as PPAP (Production Part Approval Process) and AS9102, with custom gauging and fixture creation when necessary for specific customer requirements.
+• Material traceability is crucial for demonstrating compliance, particularly for DFARS (Defense Federal Acquisition Regulation Supplement) requirements and proving domestic content for government contracts and regulated industries.
+• Real-time visibility and updates are provided for work in process, with sophisticated tracking systems that become essential when customers have hundreds or thousands of components in production simultaneously.
+• Assembly capabilities range from simple to complex, covering everything from basic hardware installation like helicoils to complete electromechanical device wiring and robotics project assembly.
+
+Real Estate Lockbox Case Study: Multi-Discipline Manufacturing and Reshoring
+
+• The project involved a complex product requiring multiple manufacturing disciplines including molding, casting, machining, rod bending, and electronics, demonstrating how seemingly simple consumer products can involve sophisticated manufacturing coordination.
+• The customer faced simultaneous crises: a redesign effort failing validation while their Taiwanese manufacturing partner announced shutdown on short notice, creating urgent need for both technical and supply chain solutions.
+• Xometry provided end-to-end solution coordination, managing additive manufacturing, CNC, urethane casting, and injection molding while simultaneously reshoring operations from Taiwan to domestic U.S. production.
+• The timeline was critical with only two months of inventory remaining, threatening layoffs of blue-collar workers if new parts couldn't be delivered on time, adding social responsibility pressure to the technical challenges.
+• Success required managing multiple complex factors: design iteration, tool development in China, safety stock creation, tool shipping logistics, and domestic production startup, all while maintaining supply continuity and preventing workforce disruption.
+
+Military Drone Case Study: International Technology Transfer and Scaling
+
+• The project involved transitioning Israeli military drone production to domestic U.S. manufacturing with significant scope increase, requiring navigation of complex international technology transfer regulations and requirements.
+• Language and documentation barriers created significant challenges, with specification sheets literally written in Hebrew and components designed specifically for local Israeli manufacturers, requiring extensive translation and adaptation work.
+• Bill of materials analysis required extensive equivalency work, including finding U.S. equivalents for Israeli components, proving compatibility, and managing fundamental partner selection across diverse manufacturing disciplines including CNC, additive, injection molding, wire harnesses, and composites.
+• The program management complexity was substantial due to the rich diversity of parts and technologies involved, requiring experienced coordination across multiple manufacturing disciplines and international compliance requirements.
+• The project achieved remarkable success, with first articles produced successfully, integration tests yielding only minor corrections (typical for such projects), entry into low-rate initial production, and ultimately resulting in a 15x increase in business activity with the customer.
+
+Near-Shoring Case Study: Rapid Supply Chain Transition
+
+• A rock climbing fall arrest device manufacturer was producing in China through a trusted partner but had corporate policy expressing reluctance about Chinese production and openness to alternative sourcing if circumstances changed.
+• Geopolitical events provided the catalyst for change, with news events creating the "small shove" that prompted immediate action to relocate production from China to India while maintaining dual sourcing capabilities.
+• The transition required complete production system replication, including re-executing PPAP (Production Part Approval Process), shipping fixtures and devices, and transferring extensive manufacturing knowledge and documentation from China to India.
+• Supply continuity was maintained throughout the transition, with no missed shipments despite the complexity of relocating an entire production line across countries and manufacturing partners.
+• Final cost remained essentially unchanged between Chinese and Indian production, demonstrating that nearshoring doesn't necessarily require significant cost penalties when managed effectively through experienced partners.
+
+Technology Integration and Platform Capabilities
+
+• CAD plugin integration is available for major design platforms including SolidWorks, Fusion 360, and Onshape, allowing engineers to receive instant cost estimates without leaving their design environment.
+• Real-time design cost feedback enables iterative optimization, helping engineers understand how design changes affect manufacturing costs immediately, supporting the concept of "cost as an independent variable" during product development.
+• ERP system integration includes PunchOut capability for companies using platforms like Coupa, making Xometry parts function like catalog items with part numbers and reducing internal procurement friction.
+• TeamSpace dashboard provides comprehensive project visibility, offering a user-friendly interface that eliminates the need for constant status update emails and phone calls, with some customers using large monitors to display real-time project status.
+• Export restriction and compliance features are built into the quoting platform, allowing customers to specify restrictions like EAR99 compliance or country exclusions directly during the quoting process.
+
+Quality Assurance and Supplier Network Management
+
+• Xometry maintains comprehensive quality certifications including ITF 16949, AS9100D, ISO 9001, and ISO 13485 (medical), ensuring consistent quality standards across the entire global partner network.
+• Two-tiered supplier vetting process ensures quality control: initial vetting includes business history, machine capabilities, certifications, and test part production, followed by ongoing performance evaluation based on historical data and quality metrics.
+• International quality teams provide cross-pollination of expertise with substantial teams in China, India, Europe, and the US, creating consistent quality management systems and drawing review standards regardless of production location.
+• Partner scoring system continuously evaluates suppliers based on quality, on-time delivery rates, and communication effectiveness, with corrective actions including on-site audits and potential network removal for underperforming partners.
+• Contractual controls prevent unauthorized subcontracting, with partner agreements and NDAs ensuring that work stays within the vetted network and doesn't get passed to unqualified sub-suppliers.
+
+Material Sourcing and Compliance Considerations
+
+• Material origin determination follows specific international standards, where the country of raw material origin is defined by where smelting and refining occur, not where the ore was originally mined from the ground.
+• Material traceability and source certification are available through the platform, allowing customers to specify both material certifications and material source requirements to ensure compliance with various regulations and restrictions.
+• Export restriction compliance is managed systematically, with contract review and compliance teams reviewing all international work for EAR codes, ITAR restrictions, and other regulatory requirements.
+• Customer-specific country restrictions are accommodated, with sales representatives and engineering teams maintaining detailed records of restrictions (such as "no China" policies) and ensuring quotes are generated only from compliant regions.
+• Prototype vs. production classifications affect customs treatment, with Xometry providing all-inclusive pricing for international prototype orders that includes duties, fees, and tariffs to eliminate unexpected costs for customers.
