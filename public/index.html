@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Wisdom Vault</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0e0e10;color:#f0e6d3;font-family:system-ui,-apple-system,sans-serif;min-height:100vh;-webkit-font-smoothing:antialiased}
+::-webkit-scrollbar{width:5px}::-webkit-scrollbar-thumb{background:#333;border-radius:3px}
+input::placeholder,textarea::placeholder{color:#555}
+button{font-family:inherit}
+
+header{padding:16px 20px 0;border-bottom:1px solid #1c1c20;position:sticky;top:0;z-index:50;background:rgba(14,14,16,.96);backdrop-filter:blur(16px)}
+.wrap{max-width:1200px;margin:0 auto}
+.htop{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px}
+.logo{display:flex;align-items:center;gap:10px}
+.lbox{width:32px;height:32px;border-radius:8px;background:linear-gradient(135deg,#c9a84c,#8b6914);display:flex;align-items:center;justify-content:center;font-size:16px}
+.htop h1{font-size:19px;font-weight:700;letter-spacing:-.3px}
+.htop small{display:block;font-size:9px;color:#5a5548;letter-spacing:1.5px;text-transform:uppercase;margin-top:1px}
+.gbtn{padding:8px 16px;background:linear-gradient(135deg,#c9a84c,#a07830);border:none;border-radius:8px;color:#111;font-size:12px;font-weight:700;cursor:pointer}
+.tabs{display:flex;gap:2px;background:#131315;border-radius:8px;padding:2px;margin-bottom:12px;overflow-x:auto}
+.tbtn{padding:7px 14px;border-radius:6px;border:none;background:transparent;color:#666;font-size:11px;cursor:pointer;transition:all .15s;white-space:nowrap}
+.tbtn.on{background:#1e1e22;color:#c9a84c;font-weight:600}
+.srow{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-bottom:14px}
+.sbox{flex:1;min-width:180px;position:relative}
+.sbox span{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:#555;font-size:12px;pointer-events:none}
+.sbox input{width:100%;background:#151517;border:1px solid #252528;border-radius:8px;padding:9px 12px 9px 30px;color:#f0e6d3;font-size:12px;outline:none}
+.sbox input:focus{border-color:#c9a84c55}
+.fbtn{padding:9px 14px;background:#151517;border:1px solid #252528;border-radius:8px;color:#888;font-size:11px;cursor:pointer}
+.fbtn.on{background:rgba(201,168,76,.08);border-color:rgba(201,168,76,.25);color:#c9a84c}
+.stats{font-size:10px;color:#5a5548;display:flex;gap:12px}
+.stats b{color:#888}
+.fpan{padding:12px;background:#151517;border:1px solid #252528;border-radius:8px;margin-bottom:12px}
+.flbl{font-size:9px;color:#5a5548;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:5px}
+.chips{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:8px}
+.chip{padding:3px 10px;border-radius:14px;border:1px solid #2a2a2e;background:transparent;color:#666;font-size:10px;cursor:pointer}
+.chip.on{border-color:#c9a84c;background:rgba(201,168,76,.1);color:#c9a84c}
+.clr{padding:3px 10px;background:none;border:1px solid #333;border-radius:4px;color:#777;font-size:10px;cursor:pointer}
+main{max-width:1200px;margin:0 auto;padding:20px 20px 50px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.card{border-radius:11px;padding:18px;cursor:pointer;transition:all .2s;border:1px solid transparent}
+.card:hover{transform:translateY(-2px)}
+.cmeta{display:flex;justify-content:space-between;margin-bottom:8px}
+.cw{font-size:9px;letter-spacing:1.2px;text-transform:uppercase;font-weight:600}
+.cc{font-size:9px;color:#555}
+.ct{font-size:17px;font-weight:600;line-height:1.3;margin-bottom:10px}
+.ctags{display:flex;flex-wrap:wrap;gap:4px}
+.ctag{font-size:9px;padding:2px 8px;border-radius:12px}
+.cnote{margin-top:8px;font-size:9px;color:#c9a84c;opacity:.6}
+.empty{text-align:center;padding:50px 20px;color:#444}
+.ov{position:fixed;inset:0;z-index:200;background:rgba(0,0,0,.72);backdrop-filter:blur(10px);display:none;justify-content:center;overflow-y:auto;padding:24px 10px}
+.ov.open{display:flex}
+.obox{background:#141416;border:1px solid #2a2a30;border-radius:14px;width:min(700px,96vw);padding:30px 26px;margin:auto}
+.xb{float:right;background:#222228;border:none;color:#999;width:28px;height:28px;border-radius:7px;font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.xb:hover{color:#ddd}
+.dw{font-size:9px;color:#c9a84c;letter-spacing:2px;text-transform:uppercase;font-weight:600;margin-bottom:6px}
+.dti{font-size:22px;font-weight:700;line-height:1.2;margin-bottom:12px}
+.dtags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:24px}
+.dtag{font-size:10px;color:#c9a84c;background:rgba(201,168,76,.1);padding:3px 10px;border-radius:14px;border:1px solid rgba(201,168,76,.2)}
+.sec{margin-bottom:22px;padding-left:14px;border-left:2px solid rgba(201,168,76,.18)}
+.sec h4{font-size:13px;color:#c9a84c;margin-bottom:8px;font-weight:600}
+.brow{margin-bottom:6px}
+.brow p{font-size:12.5px;color:#b5ab9a;line-height:1.7;margin:0}
+.arr{color:rgba(201,168,76,.22);margin-right:5px}
+.nbtn{background:none;border:none;color:#333;font-size:11px;cursor:pointer;padding:1px 3px;flex-shrink:0}
+.nbtn.has{color:#c9a84c}
+.note{margin:3px 0 0 14px;font-size:11px;color:#c9b896;background:rgba(201,168,76,.05);padding:5px 9px;border-radius:5px;border-left:2px solid rgba(201,168,76,.2)}
+.nedit{margin:3px 0 0 14px;display:flex;gap:5px}
+.nedit input{flex:1;background:#111114;border:1px solid #2a2a30;border-radius:5px;padding:5px 9px;color:#f0e6d3;font-size:11px;outline:none}
+.nedit button{padding:5px 10px;background:rgba(201,168,76,.13);border:1px solid rgba(201,168,76,.2);border-radius:5px;color:#c9a84c;font-size:10px;cursor:pointer}
+.relpat{margin-top:18px;padding-top:14px;border-top:1px solid #1e1e22}
+.relpat .rl{font-size:10px;color:#5a5548;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:8px}
+.rp{display:flex;align-items:center;gap:8px;padding:5px 0;font-size:12px;color:#999}
+.rp span:last-child{font-size:10px;color:#555}
+.mo{position:fixed;inset:0;z-index:300;background:rgba(0,0,0,.65);backdrop-filter:blur(8px);display:none;align-items:center;justify-content:center}
+.mo.open{display:flex}
+.mobox{background:#1a1a1e;border:1px solid #2a2a30;border-radius:13px;width:min(540px,92vw);max-height:88vh;overflow:auto;padding:26px 22px}
+.lb{display:block;margin-bottom:4px;color:#8a8070;font-size:10px;letter-spacing:1px;text-transform:uppercase}
+.inp{width:100%;background:#111114;border:1px solid #2a2a30;border-radius:6px;padding:9px 12px;color:#f0e6d3;font-size:13px;margin-bottom:12px;outline:none}
+.txa{width:100%;background:#111114;border:1px solid #2a2a30;border-radius:6px;padding:10px 12px;color:#f0e6d3;font-size:12px;font-family:monospace;margin-bottom:14px;outline:none;min-height:150px;resize:vertical;line-height:1.7}
+.sub{width:100%;padding:11px;background:linear-gradient(135deg,#c9a84c,#a07830);border:none;border-radius:8px;color:#111;font-size:13px;font-weight:700;cursor:pointer}
+.wis-card{background:rgba(201,168,76,.05);border:1px solid rgba(201,168,76,.15);border-radius:14px;padding:28px 24px;margin-bottom:20px;text-align:center}
+.wis-card .qt{font-size:15px;line-height:1.7;color:#e8dcc8;margin-bottom:16px}
+.wis-card .src{font-size:11px;color:#c9a84c;opacity:.7}
+.wbtn{padding:10px 28px;background:linear-gradient(135deg,#c9a84c,#a07830);border:none;border-radius:8px;color:#111;font-size:13px;font-weight:700;cursor:pointer}
+.xcard{background:#151517;border:1px solid #1e1e22;border-radius:10px;padding:14px 16px;margin-bottom:8px}
+.xcard .xh{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.xlink{padding:3px 9px;border-radius:12px;border:1px solid rgba(201,168,76,.2);background:rgba(201,168,76,.06);color:#c9a84c;font-size:10px;cursor:pointer}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
+.ccard{border-radius:11px;padding:16px;cursor:pointer;transition:all .2s}
+.ccard:hover{transform:translateY(-2px)}
+.centry{padding:12px 14px;background:rgba(201,168,76,.04);border:1px solid rgba(201,168,76,.12);border-radius:8px;cursor:pointer;transition:all .15s;margin-bottom:6px}
+.centry:hover{border-color:rgba(201,168,76,.3)}
+.nlist .ni{background:#151517;border:1px solid #1e1e22;border-radius:8px;padding:10px 12px;margin-bottom:6px}
+.ni .nsrc{font-size:10px;color:#c9a84c;margin-bottom:3px}
+.ni .nbul{font-size:11px;color:#888;margin-bottom:5px;font-style:italic}
+.ni .ntxt{font-size:11px;color:#c9b896;background:rgba(201,168,76,.06);padding:6px 9px;border-radius:5px;border-left:2px solid rgba(201,168,76,.2)}
+/* Loading spinner */
+.spinner{display:inline-block;width:28px;height:28px;border:3px solid #1e1e22;border-top-color:#c9a84c;border-radius:50%;animation:spin .7s linear infinite;margin-bottom:14px}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media(max-width:640px){.stats{display:none}.grid{grid-template-columns:1fr}.cgrid{grid-template-columns:1fr}.obox,.mobox{padding:18px 14px}}
+</style>
+</head>
+<body>
+<header>
+<div class="wrap">
+  <div class="htop">
+    <div class="logo">
+      <div class="lbox">📖</div>
+      <div>
+        <h1>The Wisdom Vault</h1>
+        <small id="vault-stats">Internal Knowledge Base</small>
+      </div>
+    </div>
+    <button class="gbtn" onclick="openMo()">+ New Summary</button>
+  </div>
+  <div class="tabs" id="tabs"></div>
+  <div id="sa"></div>
+</div>
+</header>
+
+<main><div class="wrap" id="out"></div></main>
+
+<!-- Detail overlay -->
+<div class="ov" id="dOv" onclick="if(event.target===this)cDet()"><div class="obox" id="dBox"></div></div>
+<!-- Collection overlay -->
+<div class="ov" id="cOv" onclick="if(event.target===this)cCol()"><div class="obox" id="cBox"></div></div>
+<!-- Add Summary modal -->
+<div class="mo" id="mOv" onclick="if(event.target===this)cMo()">
+  <div class="mobox">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:18px">
+      <div style="font-size:18px;font-weight:700">Add New Summary</div>
+      <button class="xb" onclick="cMo()">✕</button>
+    </div>
+    <label class="lb">Writer</label>
+    <input class="inp" id="mw" placeholder="e.g. RC, AM, TG...">
+    <label class="lb">Tags (comma-separated)</label>
+    <input class="inp" id="mt" placeholder="Leadership, Strategy">
+    <label class="lb">Paste Summary</label>
+    <textarea class="txa" id="mx" placeholder="Subject Name&#10;&#10;Section Title&#10;• Bullet point"></textarea>
+    <button class="sub" onclick="addE()">Add to Vault</button>
+  </div>
+</div>
+
+<script>
+/* ── Colour palette ─────────────────────────────────────────────────────── */
+var CC=[
+  {a:"#c9a84c",b:"rgba(201,168,76,.07)"},
+  {a:"#6ba89e",b:"rgba(107,168,158,.07)"},
+  {a:"#a87c5e",b:"rgba(168,124,94,.07)"},
+  {a:"#8b7ec8",b:"rgba(139,126,200,.07)"},
+  {a:"#c87c6e",b:"rgba(200,124,110,.07)"},
+  {a:"#7ca8c8",b:"rgba(124,168,200,.07)"}
+];
+
+/* ── State ──────────────────────────────────────────────────────────────── */
+var D=[], XREF=[], COLS=[];
+var tab="vault", sW="", sT=[], wis=null;
+
+/* ── Persistent notes (localStorage) ───────────────────────────────────── */
+var notes={};
+try { notes=JSON.parse(localStorage.getItem("wv-notes")||"{}"); } catch(e){}
+function saveNotes(){
+  try { localStorage.setItem("wv-notes",JSON.stringify(notes)); } catch(e){}
+}
+
+/* ── Helpers ────────────────────────────────────────────────────────────── */
+function esc(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML}
+function find(id){for(var i=0;i<D.length;i++)if(D[i].id===id)return D[i];return null}
+
+function rollW(){
+  if(!D.length)return;
+  var a=[];
+  D.forEach(function(e){
+    e.sec.forEach(function(s){
+      s.b.forEach(function(b){ a.push({b:b,s:e.s,h:s.h}); });
+    });
+  });
+  wis=a[Math.floor(Math.random()*a.length)];
+}
+
+/* ── Tabs ───────────────────────────────────────────────────────────────── */
+function rTabs(){
+  var ts=[["vault","📚 Vault"],["wisdom","✦ Daily Wisdom"],["connections","🔗 Cross-Refs"],["collections","🏷 Collections"]];
+  document.getElementById("tabs").innerHTML=ts.map(function(t){
+    return'<button class="tbtn'+(tab===t[0]?" on":"")+'" onclick="setTab(\''+t[0]+'\')">'+t[1]+'</button>';
+  }).join("");
+}
+function setTab(t){tab=t;rTabs();rSA();R();}
+
+/* ── Search area ────────────────────────────────────────────────────────── */
+function rSA(){
+  var el=document.getElementById("sa");
+  if(tab!=="vault"){el.innerHTML="";return;}
+  var fc=sT.length+(sW?1:0);
+  var tb=D.reduce(function(s,e){return s+e.sec.reduce(function(a,x){return a+x.b.length},0);},0);
+  el.innerHTML=
+    '<div class="srow">'
+    +'<div class="sbox"><span>⌕</span><input id="si" placeholder="Search subjects, themes, insights..." oninput="R()"></div>'
+    +'<button class="fbtn'+(fc?" on":"")+'" onclick="togF()">⚙ Filters'+(fc?" ("+fc+")":"")+'</button>'
+    +'<div class="stats"><span><b>'+D.length+'</b> summaries</span><span><b>'+tb+'</b> insights</span></div>'
+    +'</div>';
+}
+
+function togF(){
+  var fp=document.getElementById("fpan");
+  if(fp){fp.remove();return;}
+  var ws=[];D.forEach(function(e){if(ws.indexOf(e.w)<0)ws.push(e.w);});ws.sort();
+  var ts=[];D.forEach(function(e){e.t.forEach(function(t){if(ts.indexOf(t)<0)ts.push(t);});});ts.sort();
+  var fc=sT.length+(sW?1:0);
+  var h='<div class="fpan" id="fpan"><div class="flbl">WRITER</div><div class="chips">';
+  h+='<button class="chip'+(!sW?" on":"")+'" onclick="fW(\'\')">All</button>';
+  ws.forEach(function(w){h+='<button class="chip'+(sW===w?" on":"")+'" onclick="fW(\''+w+'\')">'+w+'</button>';});
+  h+='</div><div class="flbl">TAGS</div><div class="chips">';
+  ts.forEach(function(t){h+='<button class="chip'+(sT.indexOf(t)>-1?" on":"")+'" onclick="fT(\''+esc(t)+'\')">'+t+'</button>';});
+  h+='</div>';
+  if(fc)h+='<button class="clr" onclick="sW=\'\';sT=[];rSA();togF();togF();R()">Clear</button>';
+  h+='</div>';
+  document.getElementById("sa").insertAdjacentHTML("beforeend",h);
+}
+function fW(w){sW=sW===w?"":w;rSA();R();togF();}
+function fT(t){var i=sT.indexOf(t);if(i>-1)sT.splice(i,1);else sT.push(t);rSA();R();togF();}
+
+/* ── Filter logic ───────────────────────────────────────────────────────── */
+function getF(){
+  var q="";var si=document.getElementById("si");if(si)q=si.value.toLowerCase();
+  return D.filter(function(e){
+    var ms=!q
+      ||e.s.toLowerCase().indexOf(q)>-1
+      ||e.t.some(function(t){return t.toLowerCase().indexOf(q)>-1;})
+      ||e.sec.some(function(s){
+          return s.h.toLowerCase().indexOf(q)>-1
+            ||s.b.some(function(b){return b.toLowerCase().indexOf(q)>-1;});
+        });
+    return ms&&(!sW||e.w===sW)&&(sT.length===0||sT.some(function(t){return e.t.indexOf(t)>-1;}));
+  });
+}
+
+/* ── Main render dispatcher ─────────────────────────────────────────────── */
+function R(){
+  var el=document.getElementById("out");
+  if(tab==="vault")       rV(el);
+  else if(tab==="wisdom") rW(el);
+  else if(tab==="connections") rX(el);
+  else if(tab==="collections") rC(el);
+}
+
+/* ── Vault tab ──────────────────────────────────────────────────────────── */
+function rV(el){
+  var f=getF();
+  if(!f.length){
+    el.innerHTML='<div class="empty"><div style="font-size:36px;opacity:.35">📭</div><p style="margin-top:8px">No summaries match</p></div>';
+    return;
+  }
+  var h='<div class="grid">';
+  f.forEach(function(e,i){
+    var c=CC[i%CC.length];
+    var nb=e.sec.reduce(function(a,x){return a+x.b.length;},0);
+    var hasN=e.sec.some(function(s,si){return s.b.some(function(_,bi){return notes[e.id+"-"+si+"-"+bi];});});
+    h+='<div class="card" onclick="oDet('+e.id+')"'
+      +' style="background:'+c.b+';border-color:'+c.a+'22"'
+      +' onmouseenter="this.style.borderColor=\''+c.a+'55\'"'
+      +' onmouseleave="this.style.borderColor=\''+c.a+'22\';this.style.transform=\'\'">'
+      +'<div class="cmeta"><div class="cw" style="color:'+c.a+'">'+e.w+' · '+e.d+'</div><div class="cc">'+nb+' insights</div></div>'
+      +'<div class="ct">'+esc(e.s)+'</div>'
+      +'<div class="ctags">'+e.t.slice(0,4).map(function(t){
+          return'<span class="ctag" style="color:'+c.a+';background:'+c.a+'15;border:1px solid '+c.a+'22">'+t+'</span>';
+        }).join("")+'</div>'
+      +(hasN?'<div class="cnote">💭 Has notes</div>':'')
+      +'</div>';
+  });
+  el.innerHTML=h+'</div>';
+}
+
+/* ── Daily Wisdom tab ───────────────────────────────────────────────────── */
+function rW(el){
+  var nk=Object.keys(notes);
+  var h='<div style="max-width:600px;margin:0 auto;text-align:center;padding:24px 0">'
+    +'<div style="font-size:11px;color:#c9a84c;letter-spacing:2px;text-transform:uppercase;margin-bottom:18px;font-weight:600">Daily Wisdom</div>';
+  if(wis){
+    h+='<div class="wis-card"><div class="qt">"'+esc(wis.b)+'"</div>'
+      +'<div class="src">— '+esc(wis.s)+' · '+esc(wis.h)+'</div></div>';
+  }
+  h+='<button class="wbtn" onclick="rollW();R()">✦ Another Insight</button>';
+  h+='<div style="margin-top:36px;text-align:left">'
+    +'<div style="font-size:11px;color:#5a5548;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:10px">Your Notes ('+nk.length+')</div>';
+  if(!nk.length){
+    h+='<div style="color:#333;font-size:12px;padding:14px">No notes yet. Open any summary and click 💭 to annotate insights.</div>';
+  } else {
+    h+='<div class="nlist">';
+    nk.forEach(function(k){
+      var p=k.split("-");
+      var e=find(parseInt(p[0]));if(!e)return;
+      var si=parseInt(p[1]),bi=parseInt(p[2]);
+      var bul=e.sec[si]?e.sec[si].b[bi]:"";
+      h+='<div class="ni">'
+        +'<div class="nsrc">'+esc(e.s)+' · '+(e.sec[si]?esc(e.sec[si].h):"")+'</div>'
+        +'<div class="nbul">▸ '+esc(bul)+'</div>'
+        +'<div class="ntxt">'+esc(notes[k])+'</div>'
+        +'</div>';
+    });
+    h+='</div>';
+  }
+  el.innerHTML=h+'</div></div>';
+}
+
+/* ── Cross-Refs tab ─────────────────────────────────────────────────────── */
+function rX(el){
+  var h='<div style="max-width:700px;margin:0 auto">'
+    +'<div style="font-size:11px;color:#c9a84c;letter-spacing:2px;text-transform:uppercase;margin-bottom:14px;font-weight:600">Cross-References</div>';
+
+  if(!XREF.length){
+    h+='<div class="empty" style="padding:40px 0">'
+      +'<div style="font-size:36px;opacity:.35">🔗</div>'
+      +'<p style="margin-top:8px;color:#555">No cross-references yet.</p>'
+      +'<p style="font-size:11px;color:#444;margin-top:4px;max-width:320px;margin-left:auto;margin-right:auto">'
+      +'Add an <code style="color:#c9a84c;font-size:10px">xref</code> array to your data.json to connect related summaries across themes.'
+      +'</p></div>';
+    el.innerHTML=h+'</div>';
+    return;
+  }
+
+  h+='<div style="font-size:12px;color:#666;margin-bottom:18px">Patterns shared across summaries</div>';
+  XREF.forEach(function(x){
+    h+='<div class="xcard">'
+      +'<div class="xh"><span style="font-size:18px">'+x.icon+'</span>'
+      +'<span style="font-size:14px;font-weight:600">'+esc(x.theme)+'</span></div>'
+      +'<div style="font-size:12px;color:#999;line-height:1.6;margin-bottom:8px">'+esc(x.desc)+'</div>'
+      +'<div style="display:flex;gap:5px;flex-wrap:wrap">'
+      +x.ids.map(function(id){
+          var e=find(id);
+          return e?'<button class="xlink" onclick="oDet('+id+')">'+esc(e.s)+'</button>':"";
+        }).join("")
+      +'</div></div>';
+  });
+  el.innerHTML=h+'</div>';
+}
+
+/* ── Collections tab ────────────────────────────────────────────────────── */
+function rC(el){
+  var h='<div style="max-width:700px;margin:0 auto">'
+    +'<div style="font-size:11px;color:#c9a84c;letter-spacing:2px;text-transform:uppercase;margin-bottom:14px;font-weight:600">Theme Collections</div>';
+
+  if(!COLS.length){
+    h+='<div class="empty" style="padding:40px 0">'
+      +'<div style="font-size:36px;opacity:.35">🏷</div>'
+      +'<p style="margin-top:8px;color:#555">No collections yet.</p>'
+      +'<p style="font-size:11px;color:#444;margin-top:4px;max-width:320px;margin-left:auto;margin-right:auto">'
+      +'Add a <code style="color:#c9a84c;font-size:10px">cols</code> array to your data.json to curate themed bundles.'
+      +'</p></div>';
+    el.innerHTML=h+'</div>';
+    return;
+  }
+
+  h+='<div style="font-size:12px;color:#666;margin-bottom:18px">Curated bundles</div><div class="cgrid">';
+  COLS.forEach(function(c,i){
+    var p=CC[i%CC.length];
+    h+='<div class="ccard" onclick="oCol('+i+')"'
+      +' style="background:'+p.b+';border:1px solid '+p.a+'22"'
+      +' onmouseenter="this.style.borderColor=\''+p.a+'55\'"'
+      +' onmouseleave="this.style.borderColor=\''+p.a+'22\';this.style.transform=\'\'">'
+      +'<div style="font-size:28px;margin-bottom:6px">'+c.icon+'</div>'
+      +'<div style="font-size:14px;font-weight:600;margin-bottom:3px">'+c.name+'</div>'
+      +'<div style="font-size:11px;color:#888;margin-bottom:6px">'+esc(c.desc)+'</div>'
+      +'<div style="font-size:10px;color:'+p.a+'">'+c.ids.length+' summaries →</div>'
+      +'</div>';
+  });
+  el.innerHTML=h+'</div></div>';
+}
+
+/* ── Detail overlay ─────────────────────────────────────────────────────── */
+function oDet(id){
+  var e=find(id);if(!e)return;
+  var rel=XREF.filter(function(x){return x.ids.indexOf(id)>-1;});
+  var h='<button class="xb" onclick="cDet()">✕</button>'
+    +'<div class="dw">'+e.w+' · '+e.d+'</div>'
+    +'<div class="dti">'+esc(e.s)+'</div>'
+    +'<div class="dtags">'+e.t.map(function(t){return'<span class="dtag">'+t+'</span>';}).join("")+'</div>';
+
+  e.sec.forEach(function(s,si){
+    h+='<div class="sec"><h4>'+esc(s.h)+'</h4>';
+    s.b.forEach(function(b,bi){
+      var nk=e.id+"-"+si+"-"+bi;
+      var has=notes[nk];
+      h+='<div class="brow">'
+        +'<div style="display:flex;align-items:flex-start;gap:5px">'
+        +'<p style="flex:1"><span class="arr">▸</span>'+esc(b)+'</p>'
+        +'<button class="nbtn'+(has?" has":"")+'" onclick="event.stopPropagation();sN(\''+nk+'\')">💭</button>'
+        +'</div>';
+      if(has)h+='<div class="note">'+esc(notes[nk])+'</div>';
+      h+='<div id="ne-'+nk+'"></div></div>';
+    });
+    h+='</div>';
+  });
+
+  if(rel.length){
+    h+='<div class="relpat"><div class="rl">Related Patterns</div>';
+    rel.forEach(function(r){
+      var oth=r.ids.filter(function(x){return x!==id;})
+        .map(function(x){var f=find(x);return f?f.s:"";})
+        .filter(Boolean).join(", ");
+      h+='<div class="rp"><span>'+r.icon+'</span><span>'+esc(r.theme)+'</span><span>— '+esc(oth)+'</span></div>';
+    });
+    h+='</div>';
+  }
+
+  document.getElementById("dBox").innerHTML=h;
+  document.getElementById("dOv").classList.add("open");
+  document.body.style.overflow="hidden";
+}
+function cDet(){document.getElementById("dOv").classList.remove("open");document.body.style.overflow="";}
+
+/* ── Notes ──────────────────────────────────────────────────────────────── */
+function sN(k){
+  var el=document.getElementById("ne-"+k);if(!el)return;
+  el.innerHTML='<div class="nedit">'
+    +'<input id="ni-'+k+'" value="'+(notes[k]?esc(notes[k]):"")+'" placeholder="Your note..." onkeydown="if(event.key===\'Enter\')svN(\''+k+'\')">'
+    +'<button onclick="svN(\''+k+'\')">Save</button></div>';
+  var inp=document.getElementById("ni-"+k);if(inp)inp.focus();
+}
+function svN(k){
+  var inp=document.getElementById("ni-"+k);if(!inp)return;
+  var v=inp.value.trim();
+  if(v) notes[k]=v; else delete notes[k];
+  saveNotes();
+  oDet(parseInt(k.split("-")[0]));
+}
+
+/* ── Collection overlay ─────────────────────────────────────────────────── */
+function oCol(i){
+  var c=COLS[i];
+  var h='<button class="xb" onclick="cCol()">✕</button>'
+    +'<div style="font-size:32px;margin-bottom:6px">'+c.icon+'</div>'
+    +'<div style="font-size:22px;font-weight:700;margin-bottom:5px">'+c.name+'</div>'
+    +'<div style="font-size:12px;color:#888;margin-bottom:16px">'+esc(c.desc)+'</div>';
+  c.ids.forEach(function(id){
+    var e=find(id);if(!e)return;
+    var nb=e.sec.reduce(function(a,x){return a+x.b.length;},0);
+    h+='<div class="centry" onclick="cCol();oDet('+id+')">'
+      +'<div style="font-size:9px;color:#c9a84c;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:3px">'+e.w+' · '+e.d+'</div>'
+      +'<div style="font-size:15px;font-weight:600;margin-bottom:4px">'+esc(e.s)+'</div>'
+      +'<div style="font-size:11px;color:#888">'+e.sec.length+' sections · '+nb+' insights</div>'
+      +'</div>';
+  });
+  document.getElementById("cBox").innerHTML=h;
+  document.getElementById("cOv").classList.add("open");
+  document.body.style.overflow="hidden";
+}
+function cCol(){document.getElementById("cOv").classList.remove("open");document.body.style.overflow="";}
+
+/* ── Add New Summary modal ──────────────────────────────────────────────── */
+function openMo(){document.getElementById("mOv").classList.add("open");document.body.style.overflow="hidden";document.getElementById("mw").focus();}
+function cMo(){document.getElementById("mOv").classList.remove("open");document.body.style.overflow="";}
+
+function addE(){
+  var w  =document.getElementById("mw").value.trim();
+  var tR =document.getElementById("mt").value.trim();
+  var raw=document.getElementById("mx").value.trim();
+  if(!w||!raw)return;
+
+  var lines=raw.split("\n"), subj="", secs=[], cur=null;
+  lines.forEach(function(l){
+    l=l.trim();if(!l)return;
+    // Subject wrapped in *asterisks*
+    var m=l.match(/^\*(.+)\*$/);
+    if(m&&!subj){subj=m[1].trim();return;}
+    // Bullet
+    if(/^[•\-·*▸]/.test(l)){if(cur)cur.b.push(l.replace(/^[•\-·*▸]\s*/,""));return;}
+    // Skip timestamp-like tokens
+    if(/^\[\d/.test(l))return;
+    // Section header
+    if(l.length>3&&l.length<150){cur={h:l,b:[]};secs.push(cur);}
+  });
+
+  // If no *subject* marker, use first non-bullet, non-header line as title
+  if(!subj&&secs.length)subj=secs.shift().h;
+
+  var tags=tR?tR.split(",").map(function(t){return t.trim();}).filter(Boolean):["Uncategorized"];
+  var vs  =secs.filter(function(s){return s.b.length>0;});
+  var entry={
+    id: Date.now(),
+    w: w,
+    d: new Date().toLocaleDateString("en-US",{month:"short",day:"numeric"}),
+    s: subj||"Untitled",
+    t: tags,
+    sec: vs.length?vs:[{h:"Notes",b:[raw.slice(0,500)]}]
+  };
+  D.unshift(entry);
+  document.getElementById("mw").value="";
+  document.getElementById("mt").value="";
+  document.getElementById("mx").value="";
+  cMo();rSA();R();
+}
+
+/* ── Keyboard shortcuts ─────────────────────────────────────────────────── */
+document.addEventListener("keydown",function(e){
+  if(e.key==="Escape"){cDet();cCol();cMo();}
+});
+
+/* ── Bootstrap: loading state → fetch → render ──────────────────────────── */
+function showLoading(){
+  document.getElementById("out").innerHTML=
+    '<div class="empty" style="padding:80px 20px">'
+    +'<div class="spinner"></div>'
+    +'<p style="color:#555;font-size:13px">Loading vault…</p>'
+    +'</div>';
+  rTabs();
+  document.getElementById("sa").innerHTML="";
+}
+
+function initApp(data){
+  D    = data.summaries || [];
+  XREF = data.xref      || [];
+  COLS = data.cols      || [];
+  rollW();
+
+  // Update header stats
+  var tb=D.reduce(function(s,e){return s+e.sec.reduce(function(a,x){return a+x.b.length;},0);},0);
+  document.getElementById("vault-stats").textContent=
+    "Internal Knowledge Base · "+D.length+" Summaries · "+tb+" Insights";
+
+  rTabs(); rSA(); R();
+}
+
+showLoading();
+fetch("/data.json")
+  .then(function(r){
+    if(!r.ok) throw new Error("HTTP "+r.status+" – could not load data.json");
+    return r.json();
+  })
+  .then(initApp)
+  .catch(function(err){
+    document.getElementById("out").innerHTML=
+      '<div class="empty" style="padding:80px 20px">'
+      +'<div style="font-size:40px;margin-bottom:12px">❌</div>'
+      +'<p style="color:#888;font-size:13px">Failed to load vault data.</p>'
+      +'<p style="font-size:11px;color:#555;margin-top:6px">'+esc(err.message)+'</p>'
+      +'<p style="font-size:10px;color:#444;margin-top:10px">Run <code style="color:#c9a84c">node scripts/parse.js</code> to generate data.json</p>'
+      +'</div>';
+  });
+</script>
+</body>
+</html>
