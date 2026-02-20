@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node scripts/parse.js",
+  "outputDirectory": "public",
+  "installCommand": "echo 'no install needed'"
+}

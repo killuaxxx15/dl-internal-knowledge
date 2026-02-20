@@ -1,0 +1,10 @@
+{
+  "name": "wisdom-vault",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Wisdom Vault – internal knowledge base powered by text-file summaries",
+  "scripts": {
+    "build": "node scripts/parse.js",
+    "dev": "node scripts/parse.js && npx --yes serve public -p 3000 -s"
+  }
+}
