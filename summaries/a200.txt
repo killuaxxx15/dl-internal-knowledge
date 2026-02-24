@@ -1,0 +1,43 @@
+Why Paul Kedrosky Says AI Is Like Every Bubble All Rolled Into One | Odd Lots
+
+AI Data Centers as the Core Driver of U.S. GDP and a Private-Sector Stimulus
+
+• Data centers accounted for an unusually large share of U.S. GDP growth in early 2024, acting like an unintentional private-sector stimulus.
+• Policymakers and analysts often misattribute growth to tariffs or consumer strength, missing that AI infrastructure is the real driver.
+• Massive AI capex creates macroeconomic vulnerability—if returns fail, the unwind could damage the broader economy.
+• Unlike government stimulus, private-sector investment assumes profitability; failure would produce wealth-effect losses across equities, credit, and pension funds.
+
+AI as a “Meta-Bubble”: All Historical Bubble Ingredients Combined
+
+• This cycle fuses every major bubble element—tech speculation, real estate exposure, loose credit, and implicit government backing.
+• Private credit has surged to ~$1.7T, replacing banks and enabling aggressive financing structures.
+• Governments worldwide (U.S., Canada, UK, Germany, China) frame AI as existential, reinforcing limitless capex behavior.
+• The combination is unprecedented: a bubble with global political urgency, massive leverage, and strategic-nationalist justification.
+
+SPVs, Tranching, and the Return of Complex Credit Engineering
+
+• Tech giants are using SPVs to fund data centers without putting debt on their balance sheets, preserving EPS and cash-flow optics.
+• These structures now resemble pre-2008 securitization chains—layered ownership, unclear recourse, long-duration debt backed by short-life assets.
+• Data centers mix hyperscaler tenants (low rent, stable) with speculative tenants (high rent, risky), driving the creation of tranche-based ABS products.
+• Investors chasing yield often don’t understand AI fundamentals; the securitization flywheel demands more issuance regardless of underlying economics.
+
+Fragile Unit Economics and Structural Mismatch of AI Capex
+
+• AI models have negative unit economics—costs scale linearly with usage, unlike traditional software with fixed-cost leverage.
+• GPU collateral depreciates in ~18–24 months due to thermal stress and rapid training workloads, clashing with 20–30-year financing structures.
+• Upcoming refinancing waves (e.g., 2028) will test whether speculative data centers can roll debt and replace hardware.
+• Behind-the-meter power plants (gas or nuclear) add long-lived assets whose returns depend on uncertain future compute demand.
+
+Global AI Competition: U.S. Spend-Maximalism vs. China’s Efficiency
+
+• U.S. companies pursue scale, closed-source models, and massive capex, often justified with AGI-style “faith-based” narratives.
+• China pursues faster, cheaper, open-source-distilled models (e.g., Kimi), showing that transformers are bloated and ripe for efficiency gains.
+• If training efficiency improves dramatically, current U.S. demand forecasts for compute and data centers may prove wildly overstated.
+• Micro-models already solve many real enterprise tasks cheaply (e.g., record matching, supplier onboarding), undermining the economic case for giant LLMs.
+
+Compute Hoarding, Energy Constraints, and Corporate Behavior
+
+• Hyperscalers (e.g., Meta buying from CoreWeave) are hoarding compute capacity—not because they need it, but to deny it to competitors.
+• Severe energy shortages slow data-center buildouts; some grids can connect centers but cannot provide actual power.
+• Companies increasingly consider self-generation (gas turbines, future nuclear), creating potential stranded-asset risks.
+• Existential framing (“national survival,” “AGI race,” “sovereign AI”) removes spending discipline and amplifies capex escalation across nations.

@@ -1,0 +1,37 @@
+Cliff Asness on How Markets Got Dumber in the Last 10 Years | Odd Lots
+
+The Breakdown of Wisdom of Crowds in Connected Markets
+
+• The efficiency of markets depends on the wisdom of crowds, where stupid answers cancel out and correct answers converge, but this only works when participants make independent decisions.
+• Social connectivity and technology have transformed independent decision-making into herd behavior, where everyone is tied to the same social networks and information sources, flipping wisdom of crowds into madness of crowds.
+• The rise of social media and interconnected trading platforms has created conditions where people pile into the same positions simultaneously, undermining the foundational mechanism that makes markets efficient.
+
+Value Investing's Lost Decade and the "Less Efficient Market Hypothesis"
+
+• Cliff Asness wrote a paper titled "The Less Efficient Market Hypothesis," arguing that markets have become demonstrably less efficient over the past decade despite being trained under Eugene Fama, the father of efficient market hypothesis.
+• Traditional value metrics like PE ratios have become largely irrelevant as investors ignore fundamental valuations, focusing instead on momentum and narrative-driven trades.
+• The spread between cheap and expensive stocks reached extreme historical levels (2019-2020), yet value strategies experienced prolonged underperformance, challenging decades of established investment theory.
+
+The Pain of Duration Over Depth in Drawdowns
+
+• For professional money managers, the length of underperformance matters more than the severity of losses—a three-year period of modest underperformance is more damaging to a business than a single sharp 30% drawdown.
+• Extended drawdowns cause clients to question whether the investment approach is fundamentally broken rather than just experiencing temporary turbulence, leading to redemptions and career risk.
+• This dynamic creates pressure on managers to abandon proven strategies during difficult periods, potentially at the worst possible time, further exacerbating market inefficiencies.
+
+Gamification and the Transformation of Trading into Entertainment
+
+• Modern trading apps like Robinhood are designed to resemble sports betting platforms like FanDuel, with similar user interfaces, feedback mechanisms, and dopamine-triggering features that prioritize engagement over investment outcomes.
+• The average retail trader using these platforms loses money, similar to how sports bettors lose on average, because the platforms are profitable businesses extracting value from user activity.
+• This gamification has shifted investor behavior from capital allocation based on fundamentals to entertainment-driven speculation, where people bet on price movements without regard to underlying business value.
+
+Limited Arbitrage and Why Markets Can't Self-Correct
+
+• Arbitrage opportunities don't always compress prices to rational levels because the risk-reward profile may not justify the capital required, even when mispricing is obvious.
+• Institutional constraints, career risk, and the cost of maintaining positions during extended periods of irrationality prevent traders from fully exploiting mispricings, allowing bubbles to persist longer than theory suggests.
+• The final 10% of price convergence to fair value often represents disproportionate risk relative to potential reward, leaving persistent inefficiencies in the market that rational actors choose not to exploit.
+
+The Persistent Impact of Zero Interest Rates on Market Psychology
+
+• While zero interest rate policy (ZIRP) initially contributed to speculative excesses, the return to 5% rates has not significantly curtailed irrational behavior, suggesting that ZIRP broke investor psychology in ways that haven't self-corrected.
+• The theory that low rates justified high growth stock valuations explained only about 2% of the value spread extremes, and the dot-com bubble occurred during a period of relatively high interest rates, indicating rates aren't the sole driver.
+• Once investor behavior patterns are established during extended periods of free money, they don't immediately reverse when monetary conditions normalize, creating lasting changes in market dynamics.

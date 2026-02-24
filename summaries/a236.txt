@@ -1,0 +1,43 @@
+Ed Thorp and Claude Shannon
+
+Claude Shannon’s Multidisciplinary Genius and Information Theory
+
+• Claude Shannon founded Information Theory and the concept of the "bit," creating the scientific foundation for modern computers and digital media.
+• Shannon possessed a playful, polymorphic genius, engaging in diverse interests like unicycles, juggling, and building chess machines while solving complex problems.
+• His work on signal-to-noise ratios and cryptography during WWII deeply influenced his later approach to analyzing stock market patterns and earnings growth.
+• Unlike typical academics, Shannon successfully applied his theoretical insights to practical investing, viewing the stock market through the lens of signal extraction and information theory.
+
+Ed Thorp’s Mathematical Conquest of Casinos
+
+• Ed Thorp, a physicist and mathematician, mathematically proved that games like roulette and blackjack could be beaten, contrary to popular belief.
+• Thorp and Shannon collaborated to build the first wearable computer, a cigarette-pack-sized device used to predict roulette outcomes in Las Vegas.
+• Thorp invented card counting and published his findings in the best-selling book Beat the Dealer, which forever changed the gambling industry.
+• Despite being banned and physically threatened by casinos, Thorp successfully turned a $10,000 stake into significant profits using his systems before moving to Wall Street.
+
+The Kelly Criterion and the Science of Betting
+
+• The Kelly Criterion is a mathematical formula for capital allocation that maximizes wealth compounding while preventing the risk of total ruin.
+• The system dictates that bets should be proportional to the gambler’s or investor's bankroll and their calculated edge, scaling down when losses occur.
+• Successful investors like Buffett, Munger, and Thorp utilize this philosophy, believing that accepting any risk of losing everything is foolish, regardless of the potential upside.
+• The formula emphasizes that without a mathematical edge, one should not bet at all, and that survival is the prerequisite for long-term success.
+
+Applying Casino Mathematics to Wall Street Dominance
+
+• Thorp applied his gambling insights to finance, launching the Princeton Newport hedge fund, which achieved a 15.1% compound annual return over 19 years compared to the S&P’s 8%.
+• Claude Shannon achieved an even higher return of 28% over nearly 30 years, largely through a buy-and-hold strategy focused on companies like Teledyne.
+• Thorp pioneered the use of computers for identifying pricing anomalies in warrants and options, outperforming mutual funds that relied on intuition.
+• Both men demonstrated that precise mathematical models and risk management could generate consistent, above-average market returns over decades.
+
+Debunking the Efficient Market Hypothesis
+
+• Academics like Paul Samuelson championed the Efficient Market Hypothesis (EMH), claiming it was impossible to consistently beat the market through skill.
+• Thorp and Shannon disproved EMH through their verified, long-term track records, treating the market’s inefficiencies as problems to be solved with science.
+• Events like the Black Monday crash of 1987, where the market lost 23% in a day, served as a severe test that discredited the idea of perfectly rational markets.
+• While economists argued theoretically that edges didn't exist, practitioners like Thorp and Buffett exploited those edges to build massive fortunes.
+
+The Dangers of Leverage and Ignoring Survival
+
+• Long-Term Capital Management (LTCM) collapsed because its founders, despite their academic accolades, ignored the Kelly Criterion and used excessive leverage.
+• LTCM’s failure illustrated "gambler’s ruin," where betting more to recover losses leads to total destruction, a mistake Thorp and Shannon carefully avoided.
+• Warren Buffett noted that smart people go broke by "mistaking leverage for genius," risking what they have and need for money they do not need.
+• The ultimate lesson is that investors must account for "fat-tail" events and extreme probabilities, ensuring they can survive market catastrophes to compound wealth eventually.

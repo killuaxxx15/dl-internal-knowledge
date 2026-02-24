@@ -1,0 +1,37 @@
+How Larry Ellison Thinks
+
+Self-Criticism and Forward Focus
+
+• Ellison spent years being embarrassed by his performance as CEO during Oracle's first 15 years, making him his own harshest critic.
+• He has extraordinarily little interest in the recent past but reads voraciously about history, focusing instead on what's next rather than dwelling on achievements.
+• He embodies Steve Jobs' philosophy: "If you do something and it turns out pretty good, then you should just go do something else wonderful and not dwell on it for too long."
+
+The Internet Revolution and Contrarian Thinking
+
+• In the late 1990s, Ellison understood the Internet's potential earlier and more clearly than almost anyone, realizing it would exponentially expand rather than end the database market.
+• He made the radical decision to abandon all client-server development and concentrate Oracle's entire engineering effort on Internet-based architecture, repeatedly stating "the Internet changes everything."
+• He consistently acts on beliefs that few others share, forcing competitors to become followers by getting there first—similar to current AI transformation dynamics.
+
+War on Complexity and Customer Experience
+
+• Ellison views the creation of complexity as the "cardinal sin" of computing and constantly works to simplify decision-making for customers.
+• He uses the analogy that Silicon Valley sells parts while customers want cars: "If Detroit ran like Silicon Valley, nobody would sell cars. They would just sell parts."
+• His approach focuses on Oracle doing the work for customers rather than making them assemble disparate systems themselves.
+
+Strategic Enemy Selection and Brand Building
+
+• Ellison deliberately picked fights with Microsoft and IBM—"the biggest, most dangerous bully in the schoolyard"—to establish Oracle's position and improve competitiveness.
+• His philosophy: "Be nice to the alligator and maybe he'll eat you last. Let's kill the fucking alligator before he kills us."
+• The media-friendly rivalry with Bill Gates became "Billionaire A versus Billionaire B," generating massive press coverage and elevating Oracle's brand through constant comparison with industry giants.
+
+Leadership Through Confidence and Authenticity
+
+• Ellison operates as a "sprinter, not a grinder"—resting and sprinting in cycles rather than maintaining methodical, relentless grinding like Gates.
+• He believes leaders cannot be filled with uncertainty, using the Marine officer analogy: confidence and competence inspire followership more than honest admission of doubts.
+• He's unapologetically himself—unfiltered and refusing political correctness—though he admits "it took me a long time to understand that we all want to be loved—even me."
+
+Purpose and Self-Discovery Through Challenge
+
+• Ellison constantly raised the bar as he approached goals, using the software business as a high-stakes test for self-discovery and exploring personal limits.
+• After achieving financial independence, he realized the critical challenge: "You've got to figure out what it is you really love to do, because there's no other justification for doing it."
+• His ultimate measure: "If I found out I was dying and I had a year to live, I wouldn't change my life very much"—indicating alignment between his work and deepest values.

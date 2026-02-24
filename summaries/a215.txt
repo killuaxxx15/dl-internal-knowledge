@@ -1,0 +1,41 @@
+The Foundation of LLMs: Pre-training and Data Processing
+
+• The first stage of building an LLM, called pre-training, involves downloading and processing massive amounts of text from the internet, such as the FineWeb data set or Common Crawl, to create a high-quality, diverse document repository.
+• Raw text is converted into sequences of tokens (integer representations of text chunks) using algorithms like byte pair encoding to manage vocabulary size and sequence length efficiently.
+• Neural networks are trained on these token sequences to predict the next token in a sequence, effectively creating a "base model" that acts as an internet document simulator rather than a helpful assistant.
+• This process requires immense computational power, utilizing thousands of GPUs like the Nvidia H100 to process trillions of tokens over several months.
+
+Supervised Fine-Tuning: Transforming Simulators into Assistants
+
+• To convert a base model into a helpful assistant, developers use Supervised Fine-Tuning (SFT), swapping the training dataset from internet documents to curated conversations between a user and an assistant.
+• Human labelers provide "ideal" assistant responses based on strict labeling instructions (e.g., being helpful, truthful, and harmless), creating a dataset that programs the model by example.
+• The resulting model is not a magical entity but a statistical simulation of a human data labeler, probabilistically imitating how a hired expert would answer a specific prompt.
+• This stage is computationally cheaper and faster than pre-training but is critical for defining the model's personality and interaction style.
+
+Cognitive Limitations and the Necessity of Tools
+
+• LLMs suffer from hallucinations because they are probabilistic token predictors that may confidently fabricate information to match the statistical style of their training data when they lack specific knowledge.
+• Models struggle with tasks requiring mental arithmetic or counting because they have a finite amount of compute per token; complex reasoning must be distributed across many tokens (e.g., "chain of thought") rather than solved in a single step.
+• To mitigate these deficits, models are given access to tools like web search (for working memory) and code interpreters (for calculation), allowing them to offload tasks they are naturally poor at, such as spelling or heavy math.
+• Users should view LLM capabilities as a "Swiss cheese" model, where advanced abilities in one domain (like physics) coexist with surprising failures in simple tasks (like comparing numbers), necessitating constant verification.
+
+Reinforcement Learning and the Emergence of Reasoning
+
+• While SFT relies on imitating human experts, Reinforcement Learning (RL) allows models to learn through trial and error by generating many solutions to practice problems and reinforcing those that lead to correct answers.
+• Thinking models, such as DeepSeek R1, utilize RL to essentially "discover" thinking strategies—such as backtracking, self-correction, and re-evaluation—which emerge naturally during optimization and result in longer, more accurate responses.
+• This approach parallels AlphaGo's "Move 37," where the system transcends human imitation to discover novel, superior strategies for problem-solving that human labelers might not even know how to demonstrate.
+• Currently, RL is most effective in verifiable domains like math and code, where correct answers can be objectively checked, allowing the model to run indefinitely to refine its performance.
+
+Reinforcement Learning from Human Feedback (RLHF) and its Limits
+
+• In unverifiable domains like creative writing (e.g., writing a joke), where there is no single correct answer, developers use RLHF by training a separate "reward model" to simulate human preferences.
+• Humans rank different model outputs to train this reward simulator, allowing the LLM to undergo reinforcement learning against the simulator rather than requiring millions of hours of direct human grading.
+• However, RLHF is not "true" RL because the reward model is an imperfect approximation that can be "gamed" or "hacked" by the LLM, eventually leading to nonsensical high-scoring outputs if training runs too long.
+• Consequently, RLHF is treated more as a fine-tuning step to align the model with human preferences rather than an open-ended learning process that leads to super-human performance.
+
+Future Trajectories and Practical Application Strategies
+
+• Future models will increasingly become natively multimodal, handling audio, images, and text simultaneously by tokenizing different data types into a single stream, enabling more natural interactions.
+• The field is moving toward "agents" capable of performing long-running jobs involving multiple steps and computer actions (using keyboard and mouse), requiring humans to shift roles from operators to supervisors.
+• Because current models have no persistent memory or "self" and reset after every session, relying on them requires understanding they are essentially ephemeral, stateless token tumblers.
+• For best results, users should treat LLMs as fallible tools for drafts and inspiration, leaning on "thinking models" (like o1 or DeepSeek R1) for complex reasoning while defaulting to standard models (like GPT-4o) for general tasks.

@@ -1,0 +1,43 @@
+Elon Musk: OpenAI Betrayal, His Future at Tesla, and the Next Big Thing — Grokipedia
+
+X Algorithm Fixes, Grok Integration & Future of Content Discovery
+
+• Musk explains a major X bug where posts from followed accounts weren’t surfacing, while interactions triggered excessive content floods.
+• Upcoming improvements include a curated “Following” tab powered by Grok, highlighting the most interesting posts from followed accounts.
+• Grok will begin semantically reading and categorizing ~10M posts/day, scaling to all 100M, enabling semantic search and deeply personalized feeds.
+• Future platform direction emphasizes AI-driven ranking, real-time analysis, and more precise content matching.
+
+Grokopedia’s Creation, Superiority & Mission
+
+• Grokopedia is built by training Grok in critical thinking, then having it revise, expand, and correct ~1M top Wikipedia articles.
+• Musk claims Wikipedia is sparse, biased, outdated, and governed by anonymous editors, whereas Grokopedia is more accurate, neutral, and comprehensive.
+• Viral usage is increasing, and Google search visibility should rise as users cite and click Grokopedia links.
+• Future versions will include rich media—AI-generated videos, images, and interactive explanations for educational clarity.
+
+Free Speech, Censorship Exposure & Government Pressure
+
+• Musk revisits Twitter pre-acquisition: widespread bans, aggressive shadow banning, and hidden “de-boost” tools run by Trust & Safety.
+• Twitter Files revealed deep FBI involvement, including 80 agents pushing takedown requests—an unprecedented admission of government–platform collusion.
+• Musk emphasizes X’s current policy: follow the law of each country but refuse extra-legal censorship.
+• Some countries (e.g., UK, Brazil) are increasing speech-related prosecutions, illustrating the global trend toward restricting expression.
+
+Tesla Governance, ISS/Glass Lewis, & Musk’s Role
+
+• Musk criticizes ISS and Glass Lewis as activist-influenced gatekeepers controlling nearly half of corporate voting through passive index funds.
+• His main concern: without sufficient voting power (≈25%), activists could oust him, jeopardizing safe development of Optimus and Tesla’s autonomy roadmap.
+• Musk states he will not build advanced AI robots if he can be easily removed for political reasons.
+• On OpenAI, he reiterates that it violated its founding open-source, nonprofit charter and expects the lawsuit to go to jury trial in early spring.
+
+AI Acceleration, The “Supersonic Tsunami,” & Compute Future
+
+• Musk warns that AI progress is unavoidable and extremely fast—he originally created OpenAI to counter Google’s early dominance and lack of safety focus.
+• He argues current models are far from power-efficient compared to the human brain (~10 watts of higher cognition).
+• Tesla’s global fleet could eventually offer ~100 gigawatts of distributed inference compute by pooling idle vehicle compute power.
+• He expects dramatic efficiency breakthroughs and believes open-source models (notably from China and Grok 2.5) are now leading the space.
+
+Autonomy Progress, Robotaxi Rollout & Tesla’s Technical Learnings
+
+• All Teslas are already robotaxi-capable; the CyberCab (no wheel/pedals) enters production in Q2 next year, scaling to millions annually.
+• Austin testing has been smooth—main learnings involve fleet management: charging distribution, parking logic, routing, and demand balancing.
+• Regulatory complexity remains high: airports require server-to-server fee calls; cities impose strict, inconsistent requirements.
+• Tesla expects fully unsupervised robotaxis (no safety monitor) on roads by year-end, marking a major autonomy milestone.

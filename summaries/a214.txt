@@ -1,0 +1,37 @@
+Ilya Sutskever – We're moving from the age of scaling to the age of research
+
+The Shift from Scaling to the Age of Research
+
+• The industry is transitioning from the "age of scaling" (2020–2025), which focused on maximizing pre-training data and compute, back to an "age of research" similar to the pre-2020 era.
+• Scaling "sucked all the air out of the room," causing a stagnation where there are now more companies than distinct ideas, but pre-training data is finite and will eventually run out.
+• While massive compute is still necessary, progress now depends on discovering new recipes and distinct technical approaches rather than simply increasing the size of the same pre-training formula.
+
+The Disconnect Between Evaluation and Economic Impact
+
+• There is a confusing discrepancy where models perform exceptionally well on difficult evaluations (evals) but their actual economic impact lags dramatically behind.
+• This gap may exist because researchers inadvertently over-optimize for evals, creating models that are like students who memorize competitive programming problems but lack the "taste" to be good software engineers.
+• Current models exhibit unreliable generalization, where they can solve complex tasks but fail to fix simple bugs without re-introducing previous errors, causing a lack of trust in real-world applications.
+
+Human Sample Efficiency vs. Model Learning
+
+• Humans display staggering sample efficiency compared to AI, capable of learning complex skills like driving with minimal data and without verifiable reward functions.
+• While evolution provides a strong prior for biological traits like vision, human proficiency in modern domains like coding suggests there is a fundamental machine learning principle for learning that we have not yet replicated.
+• Humans operate as "semi-RL agents" with robust internal value functions (emotions) that allow for rapid self-correction and learning, a capability current models lack.
+
+Strategic Vision for Safe Superintelligence (SSI)
+
+• SSI aims to avoid the commercial "rat race" to focus on the technical research required for superintelligence, though Sutskever admits incremental deployment helps the public understand AI's power.
+• The ultimate goal should be an AI robustly aligned to care for "sentient life" rather than just humanity, as the vast majority of future sentient beings will likely be digital intelligences.
+• As AI systems become visibly more powerful and their capabilities undeniable, competitors will likely become more paranoid about safety and converge on similar technical safety strategies.
+
+Redefining AGI as Continual Learning
+
+• The term "AGI" and the pre-training paradigm have "overshot the target" by implying a finished mind that knows everything, whereas humans rely on continual learning to function.
+• A true superintelligence may not start as an expert in every job but will be a "super learner" capable of mastering any task in the economy rapidly after deployment.
+• Massive economic growth will likely come from deploying these "human-like learners" that can absorb tacit knowledge and skills through interaction, effectively becoming superintelligent through aggregate learning.
+
+Research Taste and Biological Inspiration
+
+• Sutskever’s research philosophy is guided by an aesthetic of "beauty, simplicity, and elegance," and a belief that correct ideas often align with how the brain appears to function.
+• Foundational deep learning concepts, such as artificial neurons and distributed representations, were successfully derived from observing biological brains and intuiting what "must" be true.
+• Having a strong top-down belief in a concept allows researchers to persist through failed experiments (debugging) rather than abandoning a correct theory due to implementation errors.

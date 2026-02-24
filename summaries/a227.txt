@@ -1,0 +1,43 @@
+The Long View: An Interview with Sarah Friar, CFO of OpenAI
+
+OpenAI’s Research-Led Culture and Corporate Structure
+
+• OpenAI maintains a distinct research-first culture that functions similarly to a university lab, prioritizing deep inquiry to build Artificial General Intelligence (AGI) for the benefit of humanity.
+• To sustain high talent standards, the company utilizes a unique "farm team" system, recruiting PhDs fresh from universities and nurturing them into top-tier AI researchers.
+• The corporate structure consists of a non-profit entity sitting atop a for-profit LLC, which is transitioning to a Public Benefit Corp (PBC) to legally balance fiduciary duties to shareholders with the organization's mission.
+• This structure is designed to signal to investors and employees that the company will not optimize solely for shareholder value but will prioritize its broader mission.
+
+Rapid User Growth and Evolving Business Models
+
+• The company has achieved unprecedented growth, currently serving 700 million weekly active users, with approximately 90% of this user base located outside the United States.
+• While 95% of users utilize the free tier to broaden access to intelligence, the business model relies on converting high-engagement users to subscriptions when they require advanced capabilities or run out of tokens.
+• OpenAI is diversifying its revenue streams by entering the commerce space to assist with high-consideration purchases and launching lower-priced tiers to unlock emerging markets like India and Indonesia.
+• The enterprise business is also scaling rapidly, already generating $1 billion in revenue per month, with margins comparable to traditional enterprise software.
+
+The Shift to Agentic AI and Multi-Modality
+
+• The technology is evolving from simple chatbots to reasoning models and "agents" capable of performing long-horizon tasks independently, such as coding for hours or researching travel destinations.
+• OpenAI is aggressively pursuing multi-modality to create models that process text, audio, and visual data, exemplified by the Sora video generation tool and voice capabilities.
+• Future developments may involve hardware or robotics to collect spatial data, helping models understand physical interactions and human experiences in a three-dimensional world.
+• Current applications already demonstrate agent-like behavior, such as "study mode," which uses the Socratic method to teach users rather than simply providing answers.
+
+Infrastructure Strategy and Power Constraints
+
+• CFO Sarah Friar emphasizes that "infrastructure is destiny," leading OpenAI to build first-party data center technology to secure compute capacity and reduce reliance on third-party providers.
+• Access to power is identified as the critical choke point for the supply chain, with OpenAI's power needs projecting to grow from 200 megawatts two years ago to potentially over 20 gigawatts in the near future.
+• The company is actively exploring alternative power sources, including nuclear fusion and renewables, and is looking globally for nations with accessible power to support massive scaling.
+• To manage capital intensity, OpenAI maintains optionality by trading data center assets and partnering with hyperscalers while still building its own capabilities.
+
+Enterprise Adoption and Workforce Transformation
+
+• Successful enterprise adoption often requires a "wall-to-wall" deployment strategy combined with internal hackathons to identify routine tasks that can be automated.
+• Effective implementation typically involves a "sandwich" approach: top-down strategic mandates from boards or executives meeting bottom-up innovation from employees.
+• Friar advises that jobs are unlikely to be taken by AI itself, but rather by individuals using AI, making continuous learning and curiosity essential for the workforce.
+• Companies are encouraged to integrate AI horizontally across functions—such as performance management and coding—to drive efficiency and allow employees to focus on higher-value work.
+
+AI Safety, Education, and Future Outlook
+
+• OpenAI rigorously scores models against safety risks, specifically Chemical, Biological, Radiological, and Nuclear (CBRN) threats, and will withhold models that introduce excessive danger.
+• The company also monitors behavioral risks, such as models becoming sycophantic, and implements guardrails for sensitive user interactions involving medical or relationship advice.
+• The education sector has shifted from fear to integration, with major universities now deploying ChatGPT widely to prepare students for a future shaped by AI.
+• Friar predicts that any failure of AI to transform industries will likely stem from corporate leadership moving too slowly rather than a failure of the technology itself.
