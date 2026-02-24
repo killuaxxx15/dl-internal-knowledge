@@ -1,0 +1,37 @@
+Larry Ellison (Oracle)
+
+Ellison's Elusive Personality and Self-Mythology
+
+• Larry Ellison is compared to Citizen Kane—a larger-than-life figure who believes in nothing except himself, maintaining tight control over his public image and rarely revealing authentic personal details.
+• He is notoriously difficult to pin down, with some calling him a pathological liar while others say he simply exaggerates; the authenticity of his stories is often impossible to verify.
+• Despite enormous success (becoming the fifth wealthiest person in the US), Ellison describes his achievements as "surreal" and dreamlike, something he neither anticipated nor fully believes even now.
+
+Oracle's Revolutionary Database Technology
+
+• In the mid-1970s, existing databases could manage customer accounts but couldn't answer unanticipated business questions quickly—like product sales by region or employee demographics.
+• Ellison identified this critical gap and built Oracle's relational database software to answer complex, ad-hoc queries rapidly, giving businesses unprecedented decision-making capabilities.
+• This technological breakthrough became Oracle's core competitive advantage and the foundation for the company's massive growth.
+
+Obsessive Control and Equity Protection
+
+• Ellison started Oracle specifically to be his own boss and maintained iron-fisted control throughout, always holding enough stock that his authority could never be challenged.
+• He adamantly refused to raise venture capital or sell equity, preferring debt financing or organic growth through sales even during financial crises.
+• This extreme confidence in himself meant he believed the company might fail, but he personally would not—he would simply move to the next opportunity.
+
+Operational Chaos and the Henley Turnaround
+
+• Oracle's early operations lacked basic common sense: they recognized all maintenance revenue upfront, had no bad debt reserves, and gave customers a full year to pay for software.
+• Sales teams made fake deals with massive discounts and year-long payment terms to earn immediate commissions, creating phantom revenue that later required years of financial restatements.
+• Jeff Henley was brought in against Larry's initial wishes and implemented revolutionary (but actually just sensible) changes: 30-day payment terms, proper revenue recognition, and adequate cash reserves.
+
+The Steve Jobs Friendship—Competition's One Exception
+
+• Larry is intensely competitive with everyone except Steve Jobs, whom he genuinely admired and called "the Edison of our time" and his only real friend.
+• At the Toy Story premiere, Ellison experienced a rare non-competitive emotion—pure pride and happiness for Jobs' success, as if he had achieved it himself.
+• Larry likely envied Jobs' career because while Oracle made him wealthier, Jobs created visible, beloved products that earned public adulation, unlike Oracle's hidden enterprise software.
+
+Philosophy on Happiness, Love, and Work
+
+• Ellison believes life's purpose is the enlightened pursuit of happiness through only two essential elements: love and work, "not necessarily in that order."
+• Work matters because it's active creation and self-identification—he looks at Oracle and thinks "this is me"—but people you love are essential for sanity.
+• His core advice: humans are builders who must find something they want to create and build it; getting good at both work and love puts you in "really great shape."
