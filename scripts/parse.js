@@ -289,7 +289,9 @@ const totalInsights = summaries.reduce(
 console.log(`\n💡 Total insights: ${totalInsights}`);
 
 // Write
-const output = { summaries, xref: [], cols: [] };
+//const output = { summaries, xref: [], cols: [] };
+const output = { summaries: summaries.slice().reverse(), xref: [], cols: [] };
 fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output));
 console.log(`\n💾 Written → ${OUTPUT_FILE}`);
 console.log('Done! ✨\n');
+
