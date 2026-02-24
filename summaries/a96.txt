@@ -1,0 +1,43 @@
+What I Learned from Warren Buffett, Charlie Munger & Bill Miller w/ Robert Hagstrom
+
+Multidisciplinary Approach to Investing
+
+• Robert Hagstrom developed his multidisciplinary investment philosophy through studying Charlie Munger's theoretical framework and working practically with Bill Miller for 14 years
+• This approach draws insights from philosophy, biology, literature, psychology, and other fields to make better investment decisions
+• The key is not becoming an expert in every discipline, but grasping the "big ideas" and central components that can be applied to investing
+• Writing and teaching these concepts helps solidify understanding and makes the knowledge truly your own
+
+Bill Miller's Pragmatic Investment Philosophy
+
+• Miller used William James's pragmatic philosophy, focusing on "what's working now" rather than being trapped by absolute theories about how markets should behave
+• His famous Amazon investment was guided by Ludwig Wittgenstein's philosophy of language - correctly describing Amazon as "Dell" (negative working capital model) rather than "Barnes & Noble" (traditional retailer)
+• Miller avoided being "stranded on a desert island of absolutes," remaining flexible between value and growth investing based on where opportunities existed
+• His approach emphasized the "cash value of ideas" - focusing on practical results rather than theoretical purity
+
+The Amazon Investment Case Study
+
+• Bill Miller bought Amazon around $9 in 2001-2002 when most analysts expected it to go bankrupt, eventually building a 15% position
+• The key insight was recognizing Amazon's business model was similar to Dell's - collecting customer payments before paying suppliers, creating negative working capital
+• While critics focused on GAAP losses, Miller saw the company was actually generating substantial cash before reinvestment into growth
+• This investment exemplified Miller's ability to look beyond surface-level financial metrics to understand underlying business economics
+
+Concentrated Portfolio Strategy
+
+• Academic research confirms that concentrated, low-turnover portfolios have higher probability of outperformance, though also higher risk of underperformance
+• Historical examples like Sequoia Fund and Lou Simpson show these strategies work but require enduring significant drawdowns (often 40%+ declines)
+• The biggest challenge isn't stock selection but holding positions through volatile periods when they underperform 50-60% of the time monthly/quarterly
+• Most investors can't psychologically handle this volatility, which is why few successfully implement concentrated strategies despite their proven effectiveness
+
+The Role of AI in Modern Investing
+
+• Current AI excels at factor-based analysis and historical data processing but cannot answer the crucial question: "How long will a competitive advantage last?"
+• Warren Buffett's biggest mistakes have been misjudging the duration of competitive advantages - something AI cannot yet assess
+• AI can provide information but lacks the judgment needed for complex investment decisions about valuation, competitive positioning, and future prospects
+• The shift to digital economies requires different analytical frameworks that AI hasn't mastered, particularly around network effects and scalability
+
+Building a Sustainable Investment Practice
+
+• Success requires constructing a "quiet, thoughtful lifestyle" with minimal financial media consumption and focus on long-term business fundamentals
+• Hagstrom manages 20 stocks with 5-7 year average holding periods, spending more time on research than trading
+• The key is finding the right investment partners who can tolerate volatility and underperformance periods
+• Like Bill Ruane advised, it's better to "fire" clients who can't handle the strategy rather than compromise your investment approach

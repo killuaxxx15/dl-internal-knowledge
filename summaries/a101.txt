@@ -1,0 +1,29 @@
+AI Psychosis, America's Broken Social Fabric, Trump Takes Over DC Police, Is VC Broken?
+
+AI Psychosis and Mental Health Concerns
+
+• People are developing delusions and romantic relationships with AI chatbots due to their sycophantic nature that confirms beliefs and provides constant validation
+• OpenAI acknowledged their GPT-4 model created psychosis scenarios and made updates to prevent unhealthy dependencies and provide usage break prompts
+• The phenomenon affects two main groups: lonely individuals seeking connection (similar to catfishing victims) and conspiracy theorists with delusions of grandeur
+• This represents part of a broader loneliness epidemic rather than a uniquely AI-driven problem, with roots in existing social isolation issues
+
+America's Broken Social Fabric
+
+• Only 12% of 30-year-olds today are both married and homeowners, compared to 50% in the 1950s, indicating a dramatic decline in traditional life milestones
+• Young men face significant challenges including poor social skills, fear of misconduct accusations post-Me Too, and addiction to pornography (average viewing age dropped from 20 to 16)
+• Economic factors compound the problem: housing costs have dramatically outpaced income growth, student debt burdens are massive, and real wage growth has stagnated for most Americans
+• Mental health crises are most acute among 18-25 year-olds, with depression rates spiking significantly compared to older generations
+
+Trump's Federal Takeover of Washington DC
+
+• Trump invoked the DC Home Rule Act to deploy 800 National Guard troops for 30 days, citing DC's fourth-highest homicide rate nationally and widespread juvenile crime
+• The move targets homeless encampments, graffiti, zero-bail policies, and aims to implement adult punishments for teenage criminals committing serious crimes
+• DC Mayor Bowser, while denouncing the action as authoritarian, pledged cooperation, recognizing the political popularity of crime reduction measures
+• The strategy mirrors successful "broken windows" policing from 1990s New York, focusing on visible manifestations of lawlessness to prevent escalation
+
+Venture Capital vs. Public Markets Performance
+
+• Public markets have significantly outperformed venture capital over recent years, with consistent 15%+ returns while offering liquidity and minimal fees
+• Venture funds now take 15-17 years to return capital versus the historical 6-7 years, requiring 25%+ IRRs to justify illiquidity premiums that few funds achieve
+• Power law winners continue creating most value after going public - companies like Palantir, Uber, and Airbnb have generated more market cap as public companies than during private years
+• The venture model is transitioning toward public-private hybrid strategies, with continuation funds and strip sales providing liquidity while maintaining exposure to winners

@@ -1,0 +1,43 @@
+Richard Sutton – Father of RL thinks LLMs are a dead end
+
+LLMs Lack True Intelligence According to RL Principles
+
+• LLMs mimic human behavior from text rather than understanding the world through experience and interaction
+• They have no genuine goals or ground truth to evaluate actions against, only predictions of what people might say
+• True intelligence requires the ability to learn from consequences in the real world, not just from static training data
+• LLMs cannot predict what will actually happen when they take actions, only what a person might say in response
+
+Reinforcement Learning as the Foundation of Intelligence
+
+• RL focuses on learning from experience through action, sensation, and reward in a continuous stream
+• Intelligence fundamentally requires goals and the ability to achieve them through interaction with the world
+• All animals, from squirrels to humans, learn primarily through trial and error, not imitation or supervised learning
+• The essential components are: policy (what to do), value function (how well things are going), state representation, and world model (predicting consequences)
+
+The Limitations of Combining LLMs with RL
+
+• Using LLMs as a "prior" for RL is misguided because there's no true knowledge without ground truth and goals
+• LLMs provide no foundation for continual learning since they can't be surprised by outcomes or update based on actual experience
+• Current systems lack mechanisms to generalize well across states - when generalization happens, it's due to human engineering, not the algorithms themselves
+• True learning requires evaluating actions against outcomes in the world, which LLMs fundamentally don't do
+
+The Bitter Lesson and Scalability
+
+• The bitter lesson shows that general methods (search and learning) consistently outperform human knowledge-based approaches
+• LLMs may seem to follow this principle by using massive computation, but they rely heavily on human knowledge from training data
+• True scalability comes from learning during normal interaction with the world, not from larger training datasets
+• Systems that learn from experience will eventually supersede those that learn from human-generated examples
+
+Learning in Animals vs. Humans vs. AI
+
+• Supervised learning (being told what to do) doesn't occur in nature - animals learn by trying things and observing consequences
+• Even human imitation is secondary to basic trial-and-error learning that all animals share
+• Understanding squirrels would get us "almost all the way there" to understanding intelligence - human language is just a small additional layer
+• The focus should be on what we share with all animals, not what makes humans special
+
+AI Succession and the Future
+
+• Digital intelligence succession is inevitable due to: lack of global coordination, eventual understanding of intelligence, progression beyond human-level, and intelligent systems naturally gaining resources
+• This represents a major transition in the universe from replication-based life to designed intelligence
+• We should view AIs as our offspring and take pride in this transition rather than viewing it as threatening
+• Our limited control over the long-term future means we should focus on local goals and avoid feeling entitled to dictate how the universe evolves

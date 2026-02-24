@@ -1,0 +1,29 @@
+Can Rational People Truly Disagree? | Lessons from our interview with Nobel Laureate Robert Aumann
+
+Core Theorem and Its Meaning
+
+• The Aumann Agreement Theorem states that rational, truth-seeking people cannot "agree to disagree" on factual matters if they share basic assumptions about how the world works
+• This applies only to beliefs about facts, not preferences like musical taste - two rational people with the same foundational knowledge must eventually reach identical conclusions
+• The theorem requires honest communication and mutual trust in each other's logical reasoning abilities
+• Even without sharing all underlying information, rational people must converge on the same beliefs through dialogue
+
+The Detective Example
+
+• Professor Aumann illustrates with two detectives from the same school working independently on a murder case, initially planning to arrest different suspects
+• When they meet and simply share who they plan to arrest (without revealing evidence), they begin updating their beliefs based on this information alone
+• Through iterative exchanges of their conclusions, they must eventually agree on the same suspect to arrest
+• This demonstrates that even stating conclusions provides information that rational agents must incorporate into their reasoning
+
+Common Knowledge Requirement
+
+• The theorem depends on "common knowledge" - not just that both people know something, but that they know the other knows it, and they know that the other knows they know it, infinitely
+• This creates a foundation where rational dialogue can proceed without full information sharing
+• Without common knowledge of basic assumptions about how the world works (shared priors), the theorem doesn't apply
+• Professor Aumann argues that assuming different priors is "copping out" - if people have identical information and education, they should reach identical conclusions
+
+Real-World Applications and Implications
+
+• The theorem has spawned thousands of research papers across economics, politics, and justice systems over 50 years since its 1975 publication
+• It explains why rational traders shouldn't make bets against each other based on private information, contributing to financial market theory
+• The principle offers hope for resolving disagreements in our polarized world by showing that agreement should be possible between truth-seeking individuals
+• Professor Aumann emphasizes judging theories not by their plausibility but by where they lead - and this theorem has generated substantial insights into human cooperation and conflict resolution

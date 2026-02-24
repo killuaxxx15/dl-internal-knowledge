@@ -1,0 +1,37 @@
+Winning the Competition for Good Jobs and High-Value Industries
+
+Why Industrial Composition Matters
+
+• Not all industries are equally valuable; the type of industries a nation has significantly impacts economic strength, technological capability, and national security
+• Major technologies like the internet and jet engines were developed by government for non-commercial purposes but became foundations for vast private sector profits
+• The U.S. has nine of the world's top ten robotics academic programs but none of the top ten robot companies, showing a disconnect between research capability and commercial production
+
+The "Picking Winners and Losers" Fallacy
+
+• Industrial policy primarily involves selecting strategic technologies (robotics, fusion power, biotechnology) rather than choosing specific companies to receive support
+• Identifying important future technologies is surprisingly uncontroversial through institutions like the President's Committee of Advisors on Science and Technology
+• Direct company selection is justified only in rare cases where critical national capabilities are at stake (such as Boeing or Intel), representing less than 1% of industrial policy decisions
+
+The Scale-Up Crisis and Manufacturing Ecosystem
+
+• Industries become entrenched through accumulated capabilities, supply chains, and workforce expertise—the U.S. lacks flat-panel TV production because it lost the underlying LCD industry
+• Intel's decline resulted from finance-oriented management prioritizing profit margins over technological leadership, missing opportunities in GPUs and smartphone chips
+• China excels at rapid scaling while the U.S. has become weak at this critical stage, despite exceptions like Tesla's successful but difficult production ramp-up
+
+Policy Tools Beyond Tariffs
+
+• An overvalued dollar (inflated by foreign capital inflows) makes U.S. exports uncompetitive and encourages excessive imports; moderate capital controls could reduce the dollar's value by 15-20%
+• Comprehensive industrial policy requires multiple tools including tariffs, workforce development, regulatory modernization, and targeted government investment in high-risk or long-horizon technologies
+• The Trump administration's Section 232 investigations on specific industries like robotics represent more sophisticated targeting of strategically important sectors beyond simple across-the-board tariffs
+
+Learning from International Success and Failure
+
+• Successful industrial policies (Japan, Korea, China, Germany) and failures (post-WWII Britain, Argentina, India) reveal that success depends on specific, comprehensible factors rather than mysterious or uncontrollable variables
+• China's state capitalist model with aggressive intervention means the U.S. must have its own industrial policy to compete, though not necessarily copying China's approach
+• The U.S. still has strong private sector capabilities and sophisticated capital markets, so policy should focus on creating the right environment rather than direct government investment in most cases
+
+Current Policy Trajectory and Gaps
+
+• The Biden administration's continuation and expansion of Trump-era tariffs, plus the Inflation Reduction Act, marked important progress but focused on non-economic rationales (national security, public health, environment)
+• Critical missing elements include addressing the overvalued dollar through capital controls and expanding federal support for technology development based on economic value, not just defense or environmental goals
+• Eliminating the de minimis exemption that allowed $100-150 billion in untariffed imports was essential groundwork, but more systematic approaches to strategic industries are needed

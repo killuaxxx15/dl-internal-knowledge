@@ -1,0 +1,36 @@
+The $10 Trillion AI Revolution: Why It’s Bigger Than the Industrial Revolution
+
+AI as the New Industrial Revolution
+
+• Sequoia views AI as a transformation equal to or larger than the Industrial Revolution, representing a $10 trillion opportunity
+• The cognitive revolution parallels key industrial milestones: steam engine (first GPU in 1999), factory system (AI infrastructure in 2016), and the coming assembly line equivalent
+• Industrial Revolution specialization took 144+ years to mature; AI's specialization is happening through today's startups who will build specialized applications
+• Current startups are positioned to become the "Rockefellers and Carnegies" of the cognitive revolution
+
+The Services Market Transformation
+
+• The $10 trillion US services market represents the core opportunity, with only ~$20 billion currently automated by AI
+• Similar to how SaaS expanded from $6 billion to $650+ billion while growing the entire software market, AI will expand the services market beyond its current size
+• Major service job categories (nurses, software developers, lawyers) represent massive total addressable markets that Sequoia is actively investing in
+• Unlike traditional service businesses, AI-enabled companies have potential to become large public companies comparable to current tech giants
+
+Five Current Investment Trends
+
+• Leverage Over Uncertainty: Work is shifting from 100% certainty with minimal leverage to 100%+ leverage with reduced certainty about exact outcomes
+• Real-World Validation: AI excellence is now proven through real-world performance rather than academic benchmarks
+• Reinforcement Learning: Moving from theoretical discussion to practical implementation across portfolio companies and reasoning labs
+• Physical World AI: Expanding beyond software into hardware manufacturing, quality assurance, and physical processes
+
+Five Investment Themes for 2024-2025
+
+• Persistent Memory: Critical need for long-term context retention and consistent AI agent identity, currently unsolved despite various attempts
+• Communication Protocols: Beyond MCP, enabling seamless AI-to-AI communication will unlock applications like autonomous shopping and automated logistics
+• AI Voice: Real-time, high-fidelity voice AI is ready now (unlike video) for both consumer applications and enterprise logistics/trading automation
+• AI Security: Comprehensive security across development, distribution, and consumer layers, with potential for hundreds of AI security agents per human
+
+Open Source AI at a Crossroads
+
+• Open source AI's competitive position has weakened compared to two years ago when it seemed poised to match state-of-the-art models
+• Sequoia believes open source competition is critical for a free, open AI future accessible to all builders
+• The goal is preventing AI advancement from being limited only to extremely well-funded giants
+• Success in these investment themes could compress the cognitive revolution timeline from decades to just a few years

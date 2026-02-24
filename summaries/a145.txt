@@ -1,0 +1,31 @@
+AI: Mad Maths - The Capital Cycle Podcast
+
+Massive Scale of AI Investment
+
+• Morgan Stanley estimates $3 trillion in cumulative data center investment from 2025-2028 (excluding energy costs), while McKinsey projects over $5 trillion through 2030
+• The stock market has added $12 trillion in value to 10 major US tech firms since ChatGPT's 2022 release, implying a Tobin's Q ratio of 2-4x
+• Current investment levels mirror the dot-com boom of the late 1990s, raising concerns about excessive capital deployment and future competition
+
+Math Doesn't Add Up
+
+• To justify the investment, data center operators would need to generate over $500 billion in net cash flow by 2028 just to cover equipment costs
+• Meeting shareholder expectations would require consumers and businesses to pay approximately $3 trillion for AI services—equivalent to 10% of current US GDP or 5% of global labor costs
+• Current AI revenues remain modest: OpenAI runs at $13 billion annually, with total application revenues estimated at just over $40 billion in 2025
+
+Limited Profit Impact to Date
+
+• MIT research found 95% of 300 publicly disclosed AI initiatives failed to deliver any profit boost
+• McKinsey reported that 71% of companies use generative AI, but over 80% saw no tangible earnings impact
+• Even with optimistic forecasts, a massive gap exists between projected revenues and the investment needed to justify current spending levels
+
+Winner-Take-All Hopes May Be Misplaced
+
+• Historical tech industry concentration over 25 years fuels investor patience for long-term payoffs, despite current losses
+• Competition is increasing across all segments: new data center players like Oracle and Coreweave are emerging, and large language model entrants like Grok and DeepSeek are fragmenting the market
+• Data centers are high fixed-cost, low marginal-cost businesses that tend toward competitive pricing when oversupply occurs—similar to airlines or telecom after the dot-com bust
+
+Prisoner's Dilemma Driving Behavior
+
+• Tech leaders face an "innovators dilemma": the risk of underinvesting and being left behind outweighs concerns about overinvestment, as stated by Alphabet's CEO
+• Fear of cannibalization drives spending—Bill Gates noted that personal AI agents could collapse separate markets for search, shopping, and productivity into a single competitive space
+• Executives like Larry Page and Mark Zuckerberg have expressed willingness to risk massive capital losses rather than lose the AI race

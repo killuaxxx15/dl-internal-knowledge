@@ -1,0 +1,50 @@
+Saad Filali: Global Macro Trading in the Age of Retail Dominance
+
+Career Journey and Fund Performance
+
+• Started in M&A at bulge bracket banks before moving to Goldman Sachs equity trading desk in Paris, but left after less than a year when denied a trading allocation
+• Launched Fiat Elpis Macro Fund in May 2020 with ~$50k, now managing $13-14 million with 1400% audited cumulative returns
+• Performance has declined over time: 400% (2020), 52% (2021), 92% (2022), 5% (2023), 17% (2024), 10% (2025 YTD) due to changing market dynamics
+• Prop trading allocations at major banks have largely disappeared post-2008 due to regulations and management preference for systematic strategies over human discretion
+
+Retail Dominance and Market Impact
+
+• Retail plus "semi-retail" traders (including tech workers) now have the highest market impact despite not having the most capital, due to aggressive execution via zero-DTE options and market orders
+• These traders provide massive embedded leverage and don't care about fundamentals, valuations, or even price levels—only volatility pricing and P&L
+• Zero-DTE options are "weapons of massive destruction" that make US markets increasingly difficult to trade on fundamentals; only Citadel, Virtu, and Jane Street truly understand this segment through payment-for-order-flow data
+• This group creates self-fulfilling momentum patterns where new highs become reasons to buy more, making traditional price sensitivity obsolete
+
+Systematic Trading and CTAs
+
+• Systematic/algorithmic traders (CTAs) represent a growing segment of hedge funds, all essentially following momentum strategies with slight variations in statistical methods
+• Fund allocators strongly prefer systematic strategies over discretionary trading due to "backtest fallacy"—even with a 5-year audited track record showing 14x returns, many won't engage with discretionary managers
+• These traders create synchronized movements causing 3-4 sigma factor events when their collective P&L gets hit simultaneously
+• Can be tracked through Goldman, JPMorgan, and Morgan Stanley prime broker reports (available through services like Zero Hedge for $100/month)
+
+Corporate Buybacks and Market Structure
+
+• Buybacks represent a significant passive bid in US markets (not prevalent in Europe where dividends are preferred)
+• Companies like Apple authorize massive buybacks ($50B per quarter) executed through Delta One trading desks using sophisticated VWAP/TWAP algorithms and dark pools
+• These create steady upward pressure visible as markets climbing along VWAP lines, making shorting extremely difficult
+• Buyback blackout windows around earnings reports are critical timing considerations for traders
+
+Trading Strategy Evolution
+
+• Shifted to increasingly shorter timeframes (minutes to hours) because positioning matters less immediately after news releases
+• Strategy focuses on front-running first-order reactions to unscheduled macro news, then exiting quickly before systematic bids return
+• Fundamentals still matter for identifying trading opportunities, but positioning and market participant behavior determine whether trades work
+• Key insight: "bad news" often gets bought by day's end as retail sees dips as buying opportunities regardless of underlying deterioration
+
+Geographic Market Differences
+
+• China trades more reasonably on fundamentals and is recommended for fundamental traders
+• US markets, especially S&P and NASDAQ, have too many structural bids (retail, systematics, buybacks) making short-side trades nearly impossible
+• Russell 2000 used to be more economically sensitive but now includes many tech names and meme stocks, reducing its fundamental reliability
+• Avoiding markets with zero-DTE options is crucial—they exist primarily in US markets, making non-US equities, forex, and gold more tradable on fundamentals
+
+Current Market View
+
+• Bullish on gold due to Trump administration's explicit dollar debasement policy and Fed independence concerns
+• Bearish on Russell 2000 around weak NFP data (expected 89-100K), but committed to taking profits within hours
+• Real interest rates (not nominal rates or inflation alone) drive gold, along with dollar movements
+• Tariffs (effective rate up from 2% to 16%, generating $200B in customs revenue) represent significant margin pressure on domestic companies that should weigh on markets but hasn't due to positioning dynamics

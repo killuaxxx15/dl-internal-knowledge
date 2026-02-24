@@ -1,0 +1,43 @@
+Thomas Peterffy: The $80 Billion Founder Who Automates Everything
+
+From War-Torn Budapest to Wall Street Innovation
+
+• Born during a Soviet bombing raid in 1944 Budapest, grew up in poverty under communism with his mother fearing starvation
+• Learned about capitalism through his grandmother's library of 19th-century French classics by Balzac, Hugo, and Zola
+• Immigrated to New York in 1965 at age 21 with nothing, inspired by the Statue of Liberty stamp on his father's letters
+• Started as a highway engineer earning $65/week, taught himself computer programming using an Olivetti Programma 101, reducing 20-minute calculations to 30 seconds
+
+Building the Foundation Through Automation
+
+• Met Dr. Henry Jarecki in early 1970s, designed automated system for bullion trading that printed bid-ask quotes while competitors relied on intuition
+• Declared in 1971 (age 27) his vision for full automation: "as soon as this electronic brain is hooked up to its voice box so it can answer the phone, staff will be able to go on a permanent vacation"
+• Left Jarecki in 1977 when refused expansion into stock options, having developed a partial differential equation for pricing options
+• Key lesson from Jarecki: "He was a psychiatrist. He didn't know anything about markets. I realized if he can figure it out, so can I"
+
+Revolutionary Trading Technology at Timber Hill
+
+• Founded Timber Hill in 1982 after buying American Stock Exchange seat for $36,000; hacked Quotron data feed by cutting wire and attaching oscilloscope to read electrical pulses
+• Invented first handheld trading computer in 1983 (27 years before iPad)—encyclopedia-sized devices with touchscreens that traders carried between office and floor
+• Created psychedelic color-coded display system when devices banned from trading floor—each digit flashed as a color readable from 30 feet away
+• Built mechanical typing robot in 1987 when NASDAQ demanded human keyboard entry—metal fingers typed trades automatically, creating first fully automated trading system in Wall Street history
+
+Interactive Brokers: Democratizing Professional Trading
+
+• Launched Interactive Brokers in 1993 as "elegant solution to a problem that didn't yet exist"—platform sat dormant until exchanges went electronic in late 1990s
+• Took company public via Dutch auction in 2007 to save $80 million in investment banking fees, primarily as advertising for the platform
+• Shut down Timber Hill completely in 2017 after 40 years, as high-frequency trading speed race no longer interested him
+• Built on premise "automate everything"—charges fees so low competitors stopped trying to compete on price
+
+Extraordinary Business Efficiency
+
+• Company now worth over $120 billion with 4 million customers and $700+ billion in client assets
+• Generated $3.7 billion profit on $5.2 billion revenue in 2024 (71% profit margins) with only 3,000 employees, mostly engineers
+• At age 81, still owns 70% of business as chairman, learning to run sales and marketing "because nobody wants to do it"
+• During 3-hour interview, his net worth increased by $1.7 billion based on stock movement
+
+Philosophy and Approach
+
+• Repeatedly called "mad" by peers throughout career for unconventional methods, but trusted his own judgment over conventional wisdom
+• Never read a business book, never visited Costco despite investor comparisons to their low-fee model
+• Most proud of "the money that we save people in getting markets to be more efficient"
+• Success formula: "Hard work and common sense is my story"

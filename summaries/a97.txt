@@ -1,0 +1,37 @@
+Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+
+Early Career Journey: From MIT to AI Pioneer
+
+• Started at 21 fresh from MIT, working at friend's YC startup LinkLanguage as first employee - learned the "wolf vs dog" mentality of startups where you hunt for survival rather than wait for assignments
+• Bounced between startups including Mopub, Solid Stage (pre-Docker DevOps tool), and Grouper (group dating app) from 2009-2014, learning both technical skills and entrepreneurial mindset
+• Made the unconventional leap to AI research in 2015 despite getting B-/C+ in linear algebra - self-studied for 6 months through Coursera, Kaggle projects, and GPU work before joining OpenAI
+
+OpenAI Experience and GPT-3 Development
+
+• Joined OpenAI as one of first engineers in 2015, initially working on StarCraft environment rather than ML for 9 months, leveraging his distributed systems knowledge
+• Led critical infrastructure work for GPT-3, managing the transition from TPUs to GPUs that enabled massive scaling - driven by PyTorch's superior software stack over TensorFlow
+• Witnessed firsthand the discovery of scaling laws showing 12 orders of magnitude improvement, convincing the team to pivot entirely to scaling despite criticism about "brute forcing" intelligence
+
+Anthropic's Formation and Early Struggles
+
+• Left OpenAI with 7 co-founders during COVID to start Anthropic, initially appearing unlikely to succeed against OpenAI's billion-dollar resources and star power
+• First 100 employees joined purely for the mission despite lower prestige and uncertainty, creating a politics-free culture that persists at 2000+ employees
+• Struggled until Claude 3.5 Sonnet's breakthrough in coding - had internal Slackbot 9 months before ChatGPT but hesitated to launch publicly due to uncertainty about impact
+
+Claude's Coding Dominance and Product Philosophy
+
+• Claude 3.5 Sonnet captured 80-90% of YC startup coding usage through focus on real developer needs rather than benchmark optimization - Anthropic deliberately avoids having teams that "teach to the test"
+• Claude Code originated as internal tool built by engineer Boris for Anthropic's own developers, succeeding by treating Claude itself as a user needing the right tools and context
+• Company philosophy centers on API-first approach, believing external developers will build better products than they could, with Claude Code being a surprising exception
+
+Infrastructure and Computing Scale
+
+• Humanity is building the largest infrastructure project ever, exceeding Apollo and Manhattan Projects combined, with 3x yearly growth in AI compute spending
+• Anthropic uniquely uses GPUs, TPUs, and Trainium across three manufacturers, trading engineering complexity for flexibility and capacity absorption
+• Power availability, especially in the US, represents the primary bottleneck for scaling - companies are resorting to jet engines for power generation
+
+Advice for the Next Generation
+
+• Encourages taking more risks and working on projects that would impress friends or make an idealized version of yourself proud
+• Dismisses traditional credentials like degrees or FAANG employment as irrelevant - focus on intrinsic motivation over extrinsic validation
+• Emphasizes the importance of building reliable software infrastructure that enables rapid experimentation and iteration by teams building on top

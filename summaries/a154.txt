@@ -1,0 +1,37 @@
+Global Economic Prospects: Fall 2025
+
+Global Growth Outlook and Trends
+
+• Global GDP growth upgraded to 3.1% for 2025 (up 0.4 percentage points), but expected to slow to 2.9% in 2026 due to tariff impacts and reduced immigration effects
+• US and China showed surprising resilience in 2025, outperforming expectations, though this strength is not considered sustainable
+• Advanced economies will downshift in 2026, with Germany facing manufacturing headwinds, France dealing with political uncertainty, and the UK struggling with fiscal restraint and weak productivity
+
+US Labor Market Structural Changes
+
+• Payroll growth has stalled significantly, but interpretation is complicated by sharp reduction in immigration (net immigration fell by approximately 2 million)
+• Despite slower payroll growth, unemployment rate, job openings, and initial claims suggest labor market slack has not increased significantly in 2025
+• The neutral rate of payroll growth has declined due to reduced immigration, meaning slower job creation doesn't necessarily indicate weakness
+
+Tariffs and Inflation Dynamics
+
+• US effective tariff rates are at 90-year highs, but inflationary effects have been delayed due to front-loading of shipments, bonded warehouse storage, payment deferrals, and cost absorption by importers
+• Core PCE inflation remains 0.75+ percentage points above the Fed's 2% target, with tariff impacts expected to materialize in coming months as current mitigation strategies are unsustainable
+• Forecast shows inflation rising to around 3.5% in first half of 2026 and remaining above 3% through year-end, with some forecasts projecting 4.5%+ by Q3 2026
+
+AI Investment and Economic Impact
+
+• AI-related investment (information processing equipment, R&D, software) more than accounts for all US business fixed investment growth in 2025, while other categories remain weak
+• Stock market gains highly concentrated in AI-related sectors, with the "Magnificent Seven" tech companies now representing over 35% of S&P 500 market capitalization
+• Productivity growth has been surprisingly strong post-pandemic, though this reflects better job matches and organizational changes rather than AI; future AI productivity gains may develop too slowly to offset immigration reductions
+
+China Shock 2.0 for Developing Countries
+
+• China maintains over 50% global export market share in low-skilled goods despite manufacturing wages being 3-5 times higher than other developing countries, suggesting possible distortions or technological advantages
+• The new "China Shock" primarily affects low and middle-income countries rather than advanced economies, as Western economies have already structurally shifted away from low-skilled manufacturing
+• China's excess market share (relative to its working-age population share) could represent millions of potential jobs in low-skilled exports for developing countries if that space were vacated
+
+Monetary Policy and Fed Independence Concerns
+
+• Monetary policy appears looser than the Fed believes, with credit spreads historically low, strong household balance sheets, and reduced sensitivity of investment to interest rates due to internal financing and private credit growth
+• Multiple factors suggest higher neutral interest rate (r-star) than currently estimated: sustained defense/industrial spending, AI productivity prospects, reduced savings flow from China, and increased self-insurance behavior
+• Federal Reserve independence faces unprecedented threats, including potential replacement of Reserve Bank presidents and board governors, which could materially affect inflation outcomes in 2026-2027
