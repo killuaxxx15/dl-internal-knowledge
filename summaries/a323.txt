@@ -1,0 +1,37 @@
+Cam Harvey: How Markets Absorb Geopolitical Shock
+
+Real-Time Market Response to Geopolitical Shocks
+
+• News of the U.S. action against Iran broke first in Israel at 1:13 a.m. Saturday — before the president's social media post at 2:30 a.m. — while traditional markets were closed.
+• Tokenized gold (trading 24/7, 365 days a year) served as a real-time indicator, with prices rising immediately at 1:13 a.m. and spiking further after the presidential announcement.
+• This illustrates how digital asset venues now fill the price-discovery gap that exists outside traditional market hours during crisis events.
+
+Gold as the Default Safe Haven
+
+• Geopolitical risk events consistently trigger safe haven demand for gold, a pattern confirmed once again in this episode.
+• Tokenized gold provided a live, observable case study of this flight-to-safety behavior unfolding in real time.
+• Harvey's prior research on tokenized assets gains direct relevance as a tool for studying market psychology during crises.
+
+U.S. Strategic Vulnerability in Raw Materials
+
+• Nearly 60% of global aluminum production is concentrated in China, while the U.S. produces less than 1%.
+• Aluminum is critical for aircraft, missiles, and drones — the core tools of modern military conflict.
+• This dependency raises serious questions about the U.S.'s capacity to sustain a prolonged conflict, as munitions and materials could be depleted faster than they can be replaced.
+
+Manufacturing Capacity as a Hidden Military Risk
+
+• The U.S. ability to resupply troops and replenish ordnance in an extended conflict is, in Harvey's view, "unclear at best."
+• A short engagement (days or weeks) may be manageable, but a prolonged conflict exposes deep structural gaps in domestic manufacturing.
+• This framing recontextualizes geopolitical risk as an industrial and supply chain issue, not just a diplomatic one.
+
+AI as a National Security Weapon
+
+• AI's capacity to control swarms of hundreds of thousands of drones simultaneously makes it a transformative — and underappreciated — military technology.
+• Harvey draws a direct parallel to the Manhattan Project: a technology of enormous destructive and strategic potential that is currently treated as an open, commercial free-for-all rather than a guarded national asset.
+• Intellectual property in AI flows freely between firms, creating a stark contrast to the secrecy that historically surrounded weapons of comparable strategic magnitude.
+
+The Case for Greater Government Leadership in AI
+
+• Harvey stops short of advocating nationalization but argues the U.S. government must become a leading, active player in AI development — not a passive or reactive one.
+• The dispute between Anthropic, the Department of Defense, and OpenAI is characterized as a "sideshow" relative to the broader great-power competition for AI dominance.
+• The core message: AI policy must be reframed around national security strategy, not just productivity or commercial regulation.
