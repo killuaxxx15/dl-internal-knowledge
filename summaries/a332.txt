@@ -1,0 +1,43 @@
+Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer
+
+Why Italian City-States Became Republics
+
+• After Rome's collapse, wealthier cities with strong agricultural land could self-govern by forming councils and senates; weaker towns collapsed into feudal lordship structures centered around noble villas.
+• Italy's agricultural richness enabled more cities to sustain themselves as self-governing republics, whereas elsewhere in Europe power consolidated into monarchies.
+• Florence specifically leveraged cultural capital — classical architecture, Greek scholarship, and Platonic philosophy — to punch above its social weight, using Renaissance aesthetics as diplomatic and political currency.
+• The Medici, despite being "merchant scum" by aristocratic standards, used the trappings of Roman antiquity to gain legitimacy and forge alliances that pure military power couldn't achieve.
+
+The Petrarchan Dream and Machiavelli's Correction
+
+• Petrarch, traumatized by the Black Death and pervasive civil war, proposed that studying Roman virtue (Cicero, Livy, Plato) could produce better leaders through a kind of moral osmosis — surround rulers with great texts and they'll become great men.
+• This idea was co-opted propagandistically: upstart tyrants dressed in Roman aesthetics to confer legitimacy upon themselves, not out of genuine civic virtue.
+• The experiment failed spectacularly — Cesare Borgia had all the classical education and still "set fire to half the world."
+• Machiavelli responded by proposing what we'd now call political science: treating history as a casebook of tactical decisions, studying what worked and what didn't, rather than absorbing classical virtue through osmosis.
+
+Leonardo and Brunelleschi as "Saboteurs" of Progress
+
+• Being a scientist, in Ada Palmer's framing, requires publishing and sharing results with a community so that collective knowledge advances — Leonardo did the opposite, writing everything in coded mirror script to preserve his uniqueness.
+• Leonardo and Brunelleschi (who burned his dome schematics) were brilliant inventors who deliberately suppressed their discoveries to remain irreplaceable masters, much like the ancients they revered.
+• Francis Bacon's bee metaphor captures the paradigm shift around 1600: the ideal knowledge-worker should combine observation of the world (the ant) with theoretical synthesis (the spider) and produce something genuinely new — shared honey.
+• The modern scientific community — publishing, peer review, collaborative progress — was a deliberate cultural invention of the early 1600s, not a natural evolution.
+
+Gutenberg's Bankruptcy and the Print Revolution's Slow Burn
+
+• Gutenberg went bankrupt because he solved production without solving distribution — printing 300 Bibles was useless when only 7 people in his town could legally own one.
+• Economic sustainability came only when printers moved to Venice (a Mediterranean shipping hub), enabling copies to travel on outgoing ships to diverse markets; book fairs like Frankfurt's then formalized distribution.
+• The printing press didn't transform Europe in a single moment — it took 40 years to become profitable, then successively spawned pamphlets (enabling the Reformation), newspapers, and magazines (invented to fact-check newspapers), each wave comparable to a separate digital revolution.
+• Palmer argues this mirrors our digital era: the computer, internet, social media, and LLMs are not separate revolutions but successive waves of one information revolution — unfolding on a similar 150-year timescale.
+
+Writing Materials and the Economics of Knowledge
+
+• Europe's post-Roman knowledge famine was partly a material crisis: papyrus rotted, and parchment (essentially leather) was so expensive that monks copying manuscripts had to choose which 100 of 1,000 texts to save — a process that inadvertently censored pagan antiquity in favor of Christian authors like Augustine.
+• Paper arrived in Europe around 800 AD but was trusted so slowly that state documents weren't written on it for another 400 years; even after Gutenberg, wealthy patrons still ordered books printed on vellum.
+• Gutenberg's bankruptcy was partly a paper-cost problem: he borrowed the equivalent of ~$1.5M to buy paper up front before selling a single copy.
+• Pamphlets emerged as a cash-flow solution — a short, cheap print run that could be sold in days while a longer book took months to produce, directly funding the broader print economy.
+
+The Inquisition's Blind Spots and Censorship's Chronic Misfocus
+
+• Authorities consistently censored the wrong things — inquisitors in the Enlightenment obsessed over minor Jansenist theological disputes while largely ignoring Voltaire and Diderot's Encyclopédie, which actually reshaped Western thought.
+• Of the thousands killed by the Inquisition, only one was executed for anything science-related; there were only 12 total scientific trials, versus hundreds of thousands of executions for religious non-conformity and colonial "paganism."
+• Galileo's trial prompted the Inquisition to develop what amounted to peer review — building their own experimental laboratory to verify the science in books they were meant to ban, inadvertently advancing the very knowledge they sought to suppress.
+• Milton's Areopagitica (the first major defense of press freedom) failed to prevent censorship; Paradise Lost was published under that same censorship regime, with censors objecting to one line about astrology while leaving Satan's anti-monarchical rhetoric untouched — a perfect illustration of how censors always misidentify the dangerous idea.

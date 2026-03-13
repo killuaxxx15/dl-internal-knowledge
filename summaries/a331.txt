@@ -1,0 +1,37 @@
+Edward Chancellor: The AI Bubble from a Capital Cycle Perspective
+
+Capital Cycle Framework: How Booms Breed Their Own Busts
+
+• The capital cycle theory holds that high returns attract excess capital, which drives down future returns — the very success of an investment thesis plants the seeds of its undoing.
+• Chancellor applies this lens to AI: the enormous profits of a few incumbents (Nvidia, hyperscalers) are now attracting massive competitive capital from rivals, startups, and foreign players.
+• Historical precedents — railroads, telecom, dotcom — all followed the same arc: euphoria, overinvestment, supply glut, and eventual capital destruction.
+
+Nvidia's Dominance Is Both the Signal and the Warning
+
+• Nvidia's near-monopoly on AI chips and its extraordinary margins are the clearest sign that AI is in a boom phase — and historically, such dominance invites competition that erodes those very margins.
+• AMD, Intel, custom silicon from Google, Amazon, and Meta, plus Chinese alternatives, are all aggressively targeting Nvidia's position.
+• Chancellor notes that Nvidia's valuation already prices in sustained dominance, leaving little room for the competitive erosion that capital cycle logic predicts.
+
+Hyperscaler CapEx: A Self-Reinforcing — and Potentially Dangerous — Spiral
+
+• Microsoft, Google, Amazon, and Meta have committed to hundreds of billions in AI infrastructure spending, creating a CapEx arms race where no single player can afford to fall behind.
+• This dynamic mirrors the telecom buildout of the late 1990s, where competitive pressure forced each firm to overspend relative to actual demand, resulting in massive write-downs.
+• The risk is that aggregate supply of compute capacity will far exceed monetizable demand, compressing returns across the entire ecosystem.
+
+The Demand Side Remains Unproven at Scale
+
+• Despite massive investment, there is still no clear "killer app" generating revenue commensurate with the capital being deployed — enterprise adoption is slower and more friction-filled than bulls assume.
+• Chancellor is skeptical of productivity claims, pointing out that past general-purpose technologies (electricity, internet) took decades to show up meaningfully in GDP data.
+• The burden of proof lies with AI bulls to demonstrate that LLMs can generate the kind of economic value that justifies trillion-dollar valuations, and that evidence remains thin.
+
+DeepSeek and the Efficiency Shock
+
+• China's DeepSeek demonstrated that highly capable models can be trained at a fraction of the cost assumed by Western incumbents, directly challenging the narrative that scale and spending are moats.
+• This is a classic capital cycle moment: an unexpected entrant competes away the excess returns that justified the original investment thesis.
+• If model training and inference costs continue to collapse, the value accrues to end users and applications — not to the infrastructure layer currently commanding premium valuations.
+
+Investor Positioning and the Asymmetry of Risk
+
+• Consensus is overwhelmingly long AI infrastructure; the crowded trade itself is a contrarian signal, as capital cycle analysis performs best when it diverges from market consensus.
+• Chancellor argues the risk/reward is asymmetric — the upside is largely priced in, while the downside scenarios (demand shortfall, margin compression, geopolitical supply disruption) are underweighted.
+• The historically informed view is not that AI fails as a technology, but that investors systematically overpay during the buildout phase and that the greatest returns will come after the inevitable shakeout.
